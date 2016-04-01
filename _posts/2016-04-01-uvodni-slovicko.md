@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Proč byste měli zvážit naši firmu?
-datePublished: '2016-04-01T09:23:04.487Z'
-dateModified: '2016-04-01T09:21:44.819Z'
+datePublished: '2016-04-01T09:24:15.466Z'
+dateModified: '2016-04-01T09:23:11.807Z'
 title: 'úvodní slovíčko '
 author: []
 sourcePath: _posts/2016-04-01-uvodni-slovicko.md
