@@ -1,0 +1,28 @@
+name: Czech Communication Group
+favicon: null
+layout_spectrum: 0.623728999402374
+typography_spectrum: 0.6613425086252391
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9727058366406709
+  lightness: 0.9994804533198476
+  saturation: 0.6385382793378085
+  rhythmicContrast: 0.05283988639712334
+purpose: []
