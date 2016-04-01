@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_+420 608 827 381"
-datePublished: '2016-04-01T18:10:24.037Z'
-dateModified: '2016-04-01T18:01:43.291Z'
+datePublished: '2016-04-01T18:39:06.910Z'
+dateModified: '2016-04-01T18:37:22.187Z'
 title: Spojte se s námi..
 author: []
 sourcePath: _posts/2016-04-01-spojte-se-s-nami.md
@@ -26,24 +26,22 @@ _type: WebPage
 
 # Spojte se s námi..
 
-* volejte
+* zařízením pro dálkový přenos zvuku
 
 +420 608 827 381
 
-* pište
+* telegrafem či faxem na
 
 [info@ccgpr.cz][0]
 
-* sídlo
+* poštovním holubem na sídlo
 
 Londýnská 32
 
-12000 Praha 2
-
-* korespondenční adresa
+* kouřovými signály na korespondenční adresu
 
 Na Florenci 35
 
-Praha 1
+* obé to nacházející se v hlavním městě t.č. republiky české
 
 [0]: mailto: info@ccgpr.cz
