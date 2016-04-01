@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Jsme\nexperti v\_krizové komunikaci\_- tam, kde si ostatní\ntrhají vlasy z hlavy a přeskakují drátěný plot na Nuseláku, my\njedeme jako vítězné závodní auto po mosteckém okruhu. \n"
-datePublished: '2016-04-01T10:17:41.254Z'
-dateModified: '2016-04-01T10:15:16.301Z'
+description: "Jsme\nexperti v\_komunikaci\_- tam, kde si ostatní\ntrhají vlasy z hlavy, praská jim žilka, přeskakují drátěný plot na Nuseláku anebo do sebe sypou neurol, my\njedeme jako vítězné závodní auto v LeMans."
+datePublished: '2016-04-01T11:10:04.853Z'
+dateModified: '2016-04-01T11:10:03.233Z'
 title: Co umíme? A jak?
 author: []
+sourcePath: _posts/2016-04-01-co-umime-a-jak.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-co-umime-a-jak.md
-published: true
 url: co-umime-a-jak/index.html
 _type: Article
 
@@ -25,14 +25,13 @@ _type: Article
 # Co umíme? A jak?
 
 Jsme
-experti v **krizové komunikaci** - tam, kde si ostatní
-trhají vlasy z hlavy a přeskakují drátěný plot na Nuseláku, my
-jedeme jako vítězné závodní auto po mosteckém okruhu. 
+experti v **komunikaci** - tam, kde si ostatní
+trhají vlasy z hlavy, praská jim žilka, přeskakují drátěný plot na Nuseláku anebo do sebe sypou neurol, my
+jedeme jako vítězné závodní auto v LeMans.
 
 Postaráme
 se o Vaše **mediální vztahy**. Pomůžeme s tím, aby se o
-Vás **novináři**, **bloggeři** a další
-cílové skupiny začali zajímat, anebo naopak přestali zajímat.
+Vás **novináři**, **bloggeři** začali zajímat. Anebo naopak přestali zajímat - **krizová komunikace** je naše specialita. 
 
 Potřebujete
 připravit zábavný **večírek** pro zaměstnance,
