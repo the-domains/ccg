@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: Proč byste měli zvážit naši firmu?
-datePublished: '2016-04-01T07:38:35.780Z'
-dateModified: '2016-04-01T07:38:29.052Z'
+datePublished: '2016-04-01T09:21:36.499Z'
+dateModified: '2016-04-01T09:21:32.522Z'
 title: 'úvodní slovíčko '
 author: []
+sourcePath: _posts/2016-04-01-uvodni-slovicko.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-uvodni-slovicko.md
-published: true
 url: uvodni-slovicko/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3624bd4b-953b-4837-95ee-2c0daac1cfe5.jpg)
+
 Proč byste měli zvážit naši firmu?
 
 Důvodů je celá řada.
