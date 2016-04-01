@@ -4,8 +4,18 @@
         <description><![CDATA[Krizová komunikace, PR, eventy, mediální vztahy, sociální sítě, marketing. CCG.]]></description>
         <link>https://thegrid.ai/ccg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 18:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 18:39:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ccg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Co umíme? A jak?]]></title>
+            <description><![CDATA[<article><h1>Co umíme? A jak?</h1><p>Jsme
+experti v komunikaci - tam, kde si ostatní
+trhají vlasy z hlavy, praská jim žilka, přeskakují drátěný plot na Nuseláku anebo do sebe sypou neurol, my
+jedeme jako vítězné závodní auto v LeMans.</p></article>]]></description>
+            <link>https://thegrid.ai/ccg/co-umime-a-jak/index.html</link>
+            <guid isPermaLink="false">0442065c-8b9f-407d-880f-c1acf8b227d3</guid>
+            <pubDate>Fri, 01 Apr 2016 18:39:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Case Studies - Reference]]></title>
             <description><![CDATA[<article><h1>Case Studies - Reference</h1><p>Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct do zlatova! Už cítíte tu vůni?</p></article>]]></description>
@@ -26,16 +36,6 @@
             <link>https://thegrid.ai/ccg/80d3c527-2b51-469f-ae87-ff4809a4a036/index.html</link>
             <guid isPermaLink="false">80d3c527-2b51-469f-ae87-ff4809a4a036</guid>
             <pubDate>Fri, 01 Apr 2016 17:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Co umíme? A jak?]]></title>
-            <description><![CDATA[<article><h1>Co umíme? A jak?</h1><p>Jsme
-experti v komunikaci - tam, kde si ostatní
-trhají vlasy z hlavy, praská jim žilka, přeskakují drátěný plot na Nuseláku anebo do sebe sypou neurol, my
-jedeme jako vítězné závodní auto v LeMans.</p></article>]]></description>
-            <link>https://thegrid.ai/ccg/co-umime-a-jak/index.html</link>
-            <guid isPermaLink="false">0442065c-8b9f-407d-880f-c1acf8b227d3</guid>
-            <pubDate>Fri, 01 Apr 2016 16:42:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
