@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct do zlatova! Už cítíte tu vůni?'
-datePublished: '2016-04-01T18:05:44.375Z'
-dateModified: '2016-04-01T17:57:48.010Z'
+datePublished: '2016-04-01T18:14:42.079Z'
+dateModified: '2016-04-01T18:05:52.870Z'
 title: Case Studies - Reference
 author: []
 sourcePath: _posts/2016-04-01-case-studies.md
