@@ -5,24 +5,27 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Ne tak docela.... i když vlastně tak trochu ano. Ale upečeného do zlatova!'
-datePublished: '2016-04-01T17:33:22.895Z'
-dateModified: '2016-04-01T17:32:06.020Z'
-title: Case Studies
+description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct do zlatova! Už cítíte tu vůni?'
+datePublished: '2016-04-01T17:49:05.530Z'
+dateModified: '2016-04-01T17:47:56.497Z'
+title: Case Studies - Reference
 author: []
+sourcePath: _posts/2016-04-01-case-studies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-case-studies.md
-published: true
 url: case-studies/index.html
 _type: Article
 
 ---
-# Case Studies
+# Case Studies - Reference
 
-Říkali Vám, že PR je **prodávání pečeného vzduchu**? Ne tak docela.... i když vlastně tak trochu ano. Ale upečeného do zlatova!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e8f012-b5d3-4126-922d-43256e199ca1.jpg)
+Říkali Vám, že PR je **prodávání pečeného vzduchu**? Pokud by to měla být pravda, tak my ho umíme upéct do zlatova! Už cítíte tu vůni?
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/876a7fa5c3bc10c871b44b5dab2482db8057bb00.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b0d2fd5-a87e-447c-8b8d-b809be4cfa33.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75e22fa1-9e96-4194-b225-66cc1a239229.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d19b5aa8-c6b7-49c6-aae6-c9f2be874eb9.jpg)
