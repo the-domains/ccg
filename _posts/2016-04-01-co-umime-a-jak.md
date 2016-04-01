@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Jsme\nexperti v\_komunikaci\_- tam, kde si ostatní\ntrhají vlasy z hlavy, praská jim žilka, přeskakují drátěný plot na Nuseláku anebo do sebe sypou neurol, my\njedeme jako vítězné závodní auto v LeMans."
-datePublished: '2016-04-01T11:10:04.853Z'
-dateModified: '2016-04-01T11:10:03.233Z'
+datePublished: '2016-04-01T16:42:24.533Z'
+dateModified: '2016-04-01T16:41:41.599Z'
 title: Co umíme? A jak?
 author: []
 sourcePath: _posts/2016-04-01-co-umime-a-jak.md
@@ -22,6 +22,8 @@ url: co-umime-a-jak/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a280c5c-838c-4e46-8ee4-1f3aa74beb5a.jpg)
+
 # Co umíme? A jak?
 
 Jsme
@@ -55,6 +57,4 @@ zajištěním **reklamy** i **marketingovým
 plánem**. Máme na stole  půl metru vysokou hromadu úspěšně
 dotažených **výzkumů veřejného mínění**,
 spokojenosti i nespokojenosti. **Mystery Shopping. **
-
-****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36a11d8-da30-42fa-a15b-ae5337563746.jpg)
