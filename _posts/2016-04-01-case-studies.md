@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct do zlatova! Už cítíte tu vůni?'
-datePublished: '2016-04-01T18:48:34.611Z'
-dateModified: '2016-04-01T18:48:24.613Z'
-title: ' '
+datePublished: '2016-04-02T08:10:17.569Z'
+dateModified: '2016-04-02T08:09:42.738Z'
+title: ' Case Studies'
 author: []
 sourcePath: _posts/2016-04-01-case-studies.md
 published: true
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![Team buildingová akce na opuštěném ostrově pro management ČEZ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/876a7fa5c3bc10c871b44b5dab2482db8057bb00.jpg)
-
-# 
 
 Říkali Vám, že PR je **prodávání pečeného vzduchu**? Pokud by to měla být pravda, tak my ho umíme upéct do zlatova! Už cítíte tu vůni?
 ![Stavba kamínků z grantů EU - revitalizace Šumavy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b0d2fd5-a87e-447c-8b8d-b809be4cfa33.jpg)
