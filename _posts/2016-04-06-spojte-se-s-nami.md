@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Faxem, telegrafem. Anebo pošlete disketu kurýrem.'
-datePublished: '2016-04-06T10:45:56.871Z'
-dateModified: '2016-04-06T08:14:55.503Z'
+datePublished: '2016-04-06T10:48:36.793Z'
+dateModified: '2016-04-06T10:47:47.379Z'
 title: Spojte se s námi
 author: []
+sourcePath: _posts/2016-04-06-spojte-se-s-nami.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-spojte-se-s-nami.md
-published: true
 url: spojte-se-s-nami/index.html
 _type: Article
 
