@@ -10,18 +10,18 @@ description: |-
   Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla
   být pravda, tak my ho umíme upéct do zlatova! Už cítíte tu
   vůni?
-datePublished: '2016-04-06T10:45:56.631Z'
-dateModified: '2016-04-06T10:27:24.741Z'
+datePublished: '2016-04-06T10:48:32.173Z'
+dateModified: '2016-04-06T10:48:05.070Z'
 title: Case Studies
 author: []
+sourcePath: _posts/2016-04-06-case-studies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-case-studies.md
-published: true
 url: case-studies/index.html
 _type: Article
 
@@ -53,8 +53,6 @@ Každoroční chřestové slavnosti, které pořádáme pro našeho klienta v je
 V současné době zajišťujeme kompletně externě vnější vztahy jedné z nejen jedné z nejvýznamnějších chemiček v ČR, ale i jednoho z největších českých exportérů. Spolek pro chemickou a hutní výrobu - SPOLCHEMII. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4d1bc3b-6492-4d63-ad3b-278d65551def.jpg)
 
 Pro tento významný podnik se sídlem v Ústí nad Labem zajišťujeme vedle vztahů s veřejností a médii řadu dalších činností. Tvoříme firemní časopis, [CSR program][4] či [výroční zprávy][5].
-
-# 
 
 # Politické kampaně
 
