@@ -2,14 +2,24 @@
     <channel>
         <title><![CDATA[Krizová komunikace, PR, eventy, mediální vztahy, sociální sítě, marketing. CCG.]]></title>
         <description><![CDATA[Krizová komunikace, PR, eventy, mediální vztahy, sociální sítě, marketing. CCG.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ccg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 10:45:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 10:46:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ccg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Co umíme? A jak?]]></title>
+            <description><![CDATA[<article><h1>Co umíme? A jak?</h1><p>Jsme
+experti v komunikaci a PR - tam, kde si ostatní
+trhají vlasy z hlavy a přeskakují drátěný plot na Nuseláku, my
+natáčíme virální video, ve kterém z mostu skáče motorkář na padáku.</p></article>]]></description>
+            <link>https://thegrid.ai/ccg/co-umime-a-jak/index.html</link>
+            <guid isPermaLink="false">f7818a0f-1988-43e3-a081-b948d5286e10</guid>
+            <pubDate>Wed, 06 Apr 2016 10:45:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kdo jsme?]]></title>
             <description><![CDATA[<article><h1>Kdo jsme?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6105508-79bf-4893-bffd-6515727929f7.jpg"></article>]]></description>
-            <link>undefinedkdo-jsme/index.html</link>
+            <link>https://thegrid.ai/ccg/kdo-jsme/index.html</link>
             <guid isPermaLink="false">2d672ee3-d395-43e4-b0dd-bea29ea2ad9f</guid>
             <pubDate>Wed, 06 Apr 2016 10:45:56 GMT</pubDate>
         </item>
