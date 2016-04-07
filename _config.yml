@@ -1,7 +1,7 @@
 name: Czech Communication Group
 favicon: null
-layout_spectrum: 0.24203
-typography_spectrum: 0.2637
+layout_spectrum: 0.52258
+typography_spectrum: 0.40699
 title: 'Krizová komunikace, PR, eventy, mediální vztahy, sociální sítě, marketing. '
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#231f20'
     - '#817e7f'
   brandStrength: 0.5
-  lightness: 0.4375
+  lightness: 0.8125
   saturation: 0.125
   rhythmicContrast: 0.25
 purpose: []
