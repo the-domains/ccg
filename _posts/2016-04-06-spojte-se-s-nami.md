@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Faxem, telegrafem. Anebo pošlete disketu kurýrem.'
-datePublished: '2016-04-06T13:24:34.675Z'
-dateModified: '2016-04-06T13:04:16.482Z'
+datePublished: '2016-04-07T11:20:48.452Z'
+dateModified: '2016-04-07T11:20:46.378Z'
 title: Spojte se s námi
 author: []
 sourcePath: _posts/2016-04-06-spojte-se-s-nami.md
@@ -28,23 +28,24 @@ SPOJTE SE S NÁMI
 Faxem,
 telegrafem. Anebo pošlete disketu kurýrem.
 
-* zařízením
-pro dálkový přenos zvuku
+* zařízením pro dálkový přenos zvuku na číslo:
 
 +420
 608 827 381
 
 * telegrafem
-či faxem na
+či faxem na adresu:
 
 [info@ccgpr.cz][0]
 
 * poštovním
-holubem na korespondenční adresu
+holubem na korespondenční adresu:
 
-Na Florenci
-35, Praha 1
+[Na Florenci
+35, Praha 1][1]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d68096f0-74a1-4384-992f-83a2877c34e5.jpg)
 
 * nacházející se v hlavním městě t.č. republiky české
 
 [0]: mailto:%20info@ccgpr.cz
+[1]: https://www.google.cz/maps/place/Na+Florenci+35,+Nov%C3%A9+M%C4%9Bsto,+110+00+Praha/data=!4m2!3m1!1s0x470b94be3c47618f:0xdc3b1353f0607594?sa=X&ved=0ahUKEwi-sJzys_zLAhUkEJoKHUs0A2wQ8gEIGzAA
