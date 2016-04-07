@@ -10,8 +10,8 @@ description: |-
   Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla
   být pravda, tak my ho umíme upéct do zlatova! Už cítíte tu
   vůni?
-datePublished: '2016-04-06T10:48:32.173Z'
-dateModified: '2016-04-06T10:48:05.070Z'
+datePublished: '2016-04-07T11:17:37.913Z'
+dateModified: '2016-04-07T11:16:26.438Z'
 title: Case Studies
 author: []
 sourcePath: _posts/2016-04-06-case-studies.md
@@ -39,7 +39,7 @@ Za více než desetiletí na českém trhu bychom se mohli označit za významn�
 Podívejte se na několik našich projektů.
 
 # Český chřest
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ce5946d-5a2c-432b-af1d-6e86c6319ba6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/09251273e6cc31efa75c36bba5581b6121426206.jpg)
 
 S mezi gurmány i širokou veřejností oblíbenou domácí značkou Český chřest jsme od jejího vzniku. Od loga a dalších [základních ingrediencí][0], přes [sociální sítě][1] až po vztahy s médii, státní správou a organizaci [chřestových slavností][2], které každý rok přitahují tisíce nadšenců. Českému chřestu děláme s radostí sampling i [nejrůznější tiskoviny a propagační materiály.][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a6815c-e579-45fb-bcc2-bcf327bf4803.jpg)
