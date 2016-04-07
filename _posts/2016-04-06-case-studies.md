@@ -10,8 +10,8 @@ description: |-
   Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla
   být pravda, tak my ho umíme upéct do zlatova! Už cítíte tu
   vůni?
-datePublished: '2016-04-07T11:17:37.913Z'
-dateModified: '2016-04-07T11:16:26.438Z'
+datePublished: '2016-04-07T11:26:39.468Z'
+dateModified: '2016-04-07T11:25:40.309Z'
 title: Case Studies
 author: []
 sourcePath: _posts/2016-04-06-case-studies.md
@@ -27,7 +27,7 @@ _type: Article
 
 ---
 # Case Studies
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d26ea0d9-5c2d-4e06-8515-7ee83e52b091.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0a3a0956c45c81d30cc6d8602e6e5fc7ca22cca.jpg)
 
 Říkali
 Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla
