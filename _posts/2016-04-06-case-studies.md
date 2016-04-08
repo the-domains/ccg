@@ -8,10 +8,10 @@ keywords: []
 description: |-
   Říkali
   Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla
-  být pravda, tak my ho umíme upéct do zlatova! Už cítíte tu
+  být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu
   vůni?
-datePublished: '2016-04-08T07:29:37.180Z'
-dateModified: '2016-04-08T07:29:14.595Z'
+datePublished: '2016-04-08T07:34:33.630Z'
+dateModified: '2016-04-08T07:34:29.770Z'
 title: Case Studies
 author: []
 sourcePath: _posts/2016-04-06-case-studies.md
@@ -45,7 +45,7 @@ S mezi gurmány i širokou veřejností oblíbenou domácí značkou Český ch�
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a6815c-e579-45fb-bcc2-bcf327bf4803.jpg)
 
 Každoroční chřestové slavnosti, které pořádáme pro našeho klienta v jeho sídle - Hostíně u Vojkovic na Mělnicku, přitahují tisíce fanoušků značky a chřestu. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6f4043a-9b75-4376-aa99-a9592a5814c1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fd4f545-e55b-4010-96f6-f7691fd8cd05.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7f481ec0fca15b196e045a4ab8a78d900cd1337.jpg)
 
 # Spolchemie
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7c1aeaa-831d-4d91-9313-e93cd891e2a2.jpg)
