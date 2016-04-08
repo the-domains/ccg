@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Jsme\nexperti v\_komunikaci a PR\_- tam, kde si ostatní\ntrhají vlasy z hlavy a přeskakují drátěný plot na Nuseláku, my\nnatáčíme virální video, ve kterém z mostu skáče motorkář na padáku."
-datePublished: '2016-04-06T10:48:34.376Z'
-dateModified: '2016-04-06T10:47:54.071Z'
+datePublished: '2016-04-08T07:10:06.311Z'
+dateModified: '2016-04-08T07:09:14.904Z'
 title: Co umíme? A jak?
 author: []
 sourcePath: _posts/2016-04-06-co-umime-a-jak.md
@@ -52,10 +52,12 @@ PC.
 
 Vymyslíme
 Vám **virální kampaně**, natočíme **promo** či **aplikační
-video**, **klip** i **reklamu**. Pomůžeme se zajištěním **reklamy** i **marketingovým
+video**, **klip** i **reklamu**. Pomůžeme zajištěním **reklamy** i **marketingovým
 plánem**. Máme na stole  půl metru vysokou hromadu úspěšně
 dotažených **výzkumů veřejného mínění**,
-spokojenosti i nespokojenosti. **Mystery Shopping****.**
+spokojenosti i nespokojenosti. Otestujeme Vaše zaměstnance a prodejní místa v **Mystery Shoppingu****.**
+
+To vše a určitě ještě něco dalšího pro Vás zařídí CCG - Czech Communication Group, s.r.o.
 
 ****
 
@@ -68,3 +70,4 @@ spokojenosti i nespokojenosti. **Mystery Shopping****.**
 ****
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46a4f432-7c3d-4abc-a99d-83184a2fbe20.jpg)
