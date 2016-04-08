@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Faxem, telegrafem. Anebo pošlete disketu kurýrem.'
-datePublished: '2016-04-08T07:21:26.456Z'
-dateModified: '2016-04-08T07:21:22.419Z'
+datePublished: '2016-04-08T07:39:12.893Z'
+dateModified: '2016-04-08T07:37:00.968Z'
 title: Spojte se s námi
 author: []
 sourcePath: _posts/2016-04-06-spojte-se-s-nami.md
