@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '12.dubna (BOJKOVICE/PRAHA) - Moravský strojírenský holding Zeveta se sídlem v Bojkovicích na Uherskobrodsku zaznamenal za loňský rok rekordní zisk i obraty. „Rok 2015 byl z hlediska hospodaření našich firem ten nejlepší od světové ekonomické krize v roce 2009,“ představil úspěch firmy její generální ředitel Radoslav Moravec.'
-datePublished: '2016-04-19T13:10:14.979Z'
-dateModified: '2016-04-19T12:46:14.531Z'
+datePublished: '2016-04-19T13:24:09.260Z'
+dateModified: '2016-04-19T13:24:03.230Z'
 title: Bojkovická Zeveta měla nejlepší výsledky od hospodářské krize
 author: []
 sourcePath: _posts/2016-04-19-bojkovicka-zeveta-mela-nejlepsi-vysledky-od-hospodarske-kriz.md
