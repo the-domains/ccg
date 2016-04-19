@@ -5,26 +5,28 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Media Relations pro Český chřest '
-datePublished: '2016-04-08T07:33:16.926Z'
-dateModified: '2016-04-08T07:33:16.407Z'
+description: 'Case Study: Ukázka realizovaných mediálních PR výstupů pro našeho klienta Český chřest'
+datePublished: '2016-04-19T12:49:37.224Z'
+dateModified: '2016-04-19T12:49:23.232Z'
 title: Media Relations
 author: []
+sourcePath: _posts/2016-04-08-media-relations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-media-relations.md
-published: true
 url: media-relations/index.html
 _type: Blurb
 
 ---
 # Media Relations
 
-ukázka výstupů pro našeho klienta Český chřest
+Case Study: Ukázka realizovaných mediálních PR výstupů pro našeho klienta Český chřest
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f086d79-4166-4730-9d3e-aac36bf5a67b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd2f0f93-aba4-4e07-8402-e0d9d234d10d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45153314-71f7-4e5a-a488-571100be51f7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01d1fc7f-6c20-4ad1-b62a-53dd821193e9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b33ee04-f11c-4c71-bcef-b7c7e60f8f6b.jpg)
