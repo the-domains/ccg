@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Výbornou příležitost budou mít všichni milovníci chřestu ale také v sobotu 7.května, kdy se přímo v Hostíně u Vojkovic budou konat tradiční chřestové slavnosti a bude zde k mání mj.chřest za zvýhodněnou cenu. Návštěvníci se ale budou moci těšit také na chřestové speciality, soutěže v pojídání chřestu či ukázky jeho pěstování.'
-datePublished: '2016-04-19T12:19:14.674Z'
-dateModified: '2016-04-19T12:18:44.455Z'
+datePublished: '2016-04-19T13:00:31.231Z'
+dateModified: '2016-04-19T12:59:52.923Z'
 title: Českého chřestu se fanoušci dočkají již v 2.půlce dubna
 author: []
 sourcePath: _posts/2016-04-08-ceskeho-chrestu-se-fanousci-dockaji-jiz-v-2pulce-dubna.md
