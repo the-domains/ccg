@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: '23.března (Ústí n.Labem/Praha) - Pozitivním konsolidovaným provozním hospodářským výsledkem před odpisy a úroky (ukazatel EBITDA) ve výši 486 mil. korun skončilo loňské hospodaření významné domácí chemičky, ústecké SPOLCHEMIE - Spolku pro chemickou a hutní výrobu, a. s. Zatím neauditované, konsolidované výsledky tohoto předního evropského výrobce pryskyřic, hydroxidů a chlorových derivátů ukázaly dosažení obratu ve výši 5,4 miliard korun.'
-datePublished: '2016-04-19T12:41:03.209Z'
-dateModified: '2016-04-19T12:40:37.275Z'
+datePublished: '2016-04-19T13:01:04.381Z'
+dateModified: '2016-04-19T12:41:12.741Z'
 title: 'Úspěch SPOLCHEMIE: Loňský rok v černých číslech'
 author: []
+sourcePath: _posts/2016-04-19-uspech-spolchemie-lonsky-rok-v-cernych-cislech.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-uspech-spolchemie-lonsky-rok-v-cernych-cislech.md
-published: true
 url: uspech-spolchemie-lonsky-rok-v-cernych-cislech/index.html
 _type: Article
 
@@ -25,7 +25,6 @@ _type: Article
 # Úspěch SPOLCHEMIE: Loňský rok v černých číslech
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3eb1d76-85e5-4ed6-9993-c113e3377898.jpg)
 
-  
 **23.března (Ústí n.Labem/Praha)** - Pozitivním konsolidovaným provozním hospodářským výsledkem před odpisy a úroky (ukazatel EBITDA) ve výši 486 mil. korun skončilo loňské hospodaření významné domácí chemičky, ústecké SPOLCHEMIE - Spolku pro chemickou a hutní výrobu, a. s. Zatím neauditované, konsolidované výsledky tohoto předního evropského výrobce pryskyřic, hydroxidů a chlorových derivátů ukázaly dosažení obratu ve výši 5,4 miliard korun.
 
 „Již z předběžných čísel vyplývá, že se nám podařilo naplnit hlavní cíle stanovené pro loňský rok: navrátit se po dlouhých letech k ziskovému hospodaření, stabilizovat situaci s cash flow a dosáhnout významného meziročního nárůstu EBITDA," okomentoval pozitivní výsledky hospodaření generální ředitel Daniel Tamchyna.
