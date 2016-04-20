@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-20T18:46:20.386Z'
-dateModified: '2016-04-20T18:46:01.848Z'
-title: 'Blesk: Tady se pro vás chystá chřest'
+datePublished: '2016-04-20T18:51:57.905Z'
+dateModified: '2016-04-20T18:51:54.084Z'
+title: Zprávy a novinky z naší agentury
 author:
   - name: 20.dubna 2016
     url: ''
@@ -24,6 +24,8 @@ url: zpravy-a-novinky-z-nasi-agenturni-dilny/index.html
 _type: Article
 
 ---
+# Zprávy a novinky z naší agentury
+
 ## Blesk: Tady se pro vás chystá chřest
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e7b5013-e4d2-4892-a956-eb65973eb23f.jpg)
 
