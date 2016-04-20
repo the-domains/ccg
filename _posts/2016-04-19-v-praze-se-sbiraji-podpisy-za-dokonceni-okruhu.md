@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Na této adrese je k dispozici také plné znění dopisu. „Dokončení okruhu je nám slibováno desítky let a mezitím každý rok statisíce nákladních aut musí namísto neexistujícího obchvatu jet přímo do Prahy a využít Spořilovskou, Jižní a Štěrboholskou spojkou. Tu největší ekologickou, zdravotní a dopravní zátěž tak zcela nelogicky odnášíme my - desetitisíce obyvatel nejen Jižního Města, Spořilova, Říčan a dalších pražských městských částí a obcí zasažených nadměrnou tranzitní dopravou,“ vysvětluje smysl dopisu Sýkora. '
-datePublished: '2016-04-20T16:45:57.906Z'
-dateModified: '2016-04-20T16:45:37.241Z'
+datePublished: '2016-04-20T16:59:14.362Z'
+dateModified: '2016-04-20T16:45:59.844Z'
 title: V Praze se sbírají podpisy za dokončení okruhu
 author: []
 sourcePath: _posts/2016-04-19-v-praze-se-sbiraji-podpisy-za-dokonceni-okruhu.md
