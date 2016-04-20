@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-20T18:19:10.788Z'
-dateModified: '2016-04-20T18:19:06.996Z'
+datePublished: '2016-04-20T18:23:35.860Z'
+dateModified: '2016-04-20T18:23:31.321Z'
 title: Zprávy a novinky z naší agenturní dílny
 author: []
 sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
@@ -25,7 +25,9 @@ _type: Article
 # Zprávy a novinky z naší agenturní dílny
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c398955-a045-4da8-a7bd-b66f5c1df713.jpg)
 
-## [V Praze se sbírají podpisy za dokončení okruhu][0]  
+## 
+
+## [V Praze se sbírají podpisy za dokončení okruhu][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e4bfdbb-a089-4739-b15b-736b779667e1.jpg)
 
 ## [Bojkovická Zeveta měla nejlepší výsledky od hospodářské krize][1]
