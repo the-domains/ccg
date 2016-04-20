@@ -6,11 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T17:27:18.632Z'
-dateModified: '2016-04-20T17:20:13.785Z'
+datePublished: '2016-04-20T17:45:53.420Z'
+dateModified: '2016-04-20T17:45:09.550Z'
 title: Spojte se s námi
 author:
-  - name: ''
+  - name: 'Faxem, morseovkou anebo pošlete disketu...'
     url: ''
 sourcePath: _posts/2016-04-19-spojte-se-s-nami.md
 published: true
