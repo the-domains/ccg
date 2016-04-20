@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-20T16:57:28.783Z'
-dateModified: '2016-04-20T16:57:22.493Z'
+datePublished: '2016-04-20T17:07:33.993Z'
+dateModified: '2016-04-20T17:07:12.627Z'
 title: Zprávy a novinky z naší agenturní dílny
 author: []
+sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
-published: true
 url: zpravy-a-novinky-z-nasi-agenturni-dilny/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 # Zprávy a novinky z naší agenturní dílny
 
 ## [Blesk: Tady se pro vás chystá chřest][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a78ecace-8897-4544-9936-a47d004acdab.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73fd9b79-3c30-4605-a557-4efd6a9ec42a.jpg)
 
 ## [V Praze se sbírají podpisy za dokončení okruhu][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e4bfdbb-a089-4739-b15b-736b779667e1.jpg)
