@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-20T18:34:48.966Z'
-dateModified: '2016-04-20T18:34:36.271Z'
-title: ' '
+datePublished: '2016-04-20T18:41:18.818Z'
+dateModified: '2016-04-20T18:41:14.535Z'
+title: 'Blesk: Tady se pro vás chystá chřest'
 author:
   - name: 20.dubna 2016
     url: ''
@@ -24,9 +24,13 @@ url: zpravy-a-novinky-z-nasi-agenturni-dilny/index.html
 _type: Article
 
 ---
+Blesk: Tady se pro vás chystá chřest
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e7b5013-e4d2-4892-a956-eb65973eb23f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9018a3eb-cf6c-44ef-aa31-133632dc16ab.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/540f53c1-38c3-4f8b-99f3-19d902895ffc.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd7bb836-4df5-4889-9dcd-0bbfb6a841a8.jpg)
 
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/480022eb-8da1-4ba8-a425-ebacd78abbc2.jpg)
+V Praze se sbírají podpisy za dokončení okruhu
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9018a3eb-cf6c-44ef-aa31-133632dc16ab.jpg)
+
+Bojkovická Zeveta měla nejlepší výsledky od hospodářské krize
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/540f53c1-38c3-4f8b-99f3-19d902895ffc.jpg)
+
+Českého chřestu se fanoušci dočkají v půlce dubna
