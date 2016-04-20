@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Jsme experti v komunikaci a PR - tam, kde si ostatní trhají vlasy z hlavy a přeskakují drátěný plot na Nuseláku, my natáčíme virální video, ve kterém z mostu skáče motorkář na padáku.'
-datePublished: '2016-04-19T12:53:55.308Z'
-dateModified: '2016-04-19T12:53:51.214Z'
+datePublished: '2016-04-20T17:49:09.443Z'
+dateModified: '2016-04-20T17:49:07.587Z'
 title: Co umíme? A jak?
 author: []
 sourcePath: _posts/2016-04-06-co-umime-a-jak.md
@@ -29,7 +29,7 @@ Jsme experti v **komunikaci a PR** - tam, kde si ostatní trhají vlasy z hlavy 
 
 Postaráme se o Vaše **[mediální vztahy][0]**. Pomůžeme s tím, aby se o Vás **novináři**, **bloggeři** a další cílové skupiny začali zajímat. Anebo naopak zajímat přestali - **krizová komunikace**.
 
-Potřebujete připravit zábavný večírek****pro zaměstnance, skoky na lyžích pro obchodní partnery (**vztahy se zaměstnanci i klienty)**, připravit **product launch** pro Váš nový raketoplán nebo nový prací prášek? Není problém, **event** Vám uděláme nejen originální, ale i na míru a přesně podle Vašich finančních i dalších možností.
+Potřebujete připravit zábavný večírek ****pro zaměstnance, skoky na lyžích pro obchodní partnery (**vztahy se zaměstnanci i klienty)**, připravit **product launch** pro Váš nový raketoplán nebo nový prací prášek? Není problém, **event** Vám uděláme nejen originální, ale i na míru a přesně podle Vašich finančních i dalších možností.
 
 Chcete vydávat **časopis**, **newsletter **pro zákazníky a partnery? Nemá se Vám kdo pořádně starat o Váš firemní **Facebook, Instagram **či **Twitter**? Pro naše klienty se o sociální sítě staráme skoro od dob vzniku PC.
 
