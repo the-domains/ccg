@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: '23.března (Ústí n.Labem/Praha) - Pozitivním konsolidovaným provozním hospodářským výsledkem před odpisy a úroky (ukazatel EBITDA) ve výši 486 mil. korun skončilo loňské hospodaření významné domácí chemičky, ústecké SPOLCHEMIE - Spolku pro chemickou a hutní výrobu, a. s. Zatím neauditované, konsolidované výsledky tohoto předního evropského výrobce pryskyřic, hydroxidů a chlorových derivátů ukázaly dosažení obratu ve výši 5,4 miliard korun.'
-datePublished: '2016-04-20T16:58:23.136Z'
-dateModified: '2016-04-20T16:46:50.549Z'
+description: 'Ústí n.Labem/Praha - Pozitivním konsolidovaným provozním hospodářským výsledkem před odpisy a úroky (ukazatel EBITDA) ve výši 486 mil. korun skončilo loňské hospodaření významné domácí chemičky, ústecké SPOLCHEMIE - Spolku pro chemickou a hutní výrobu, a. s. Zatím neauditované, konsolidované výsledky tohoto předního evropského výrobce pryskyřic, hydroxidů a chlorových derivátů ukázaly dosažení obratu ve výši 5,4 miliard korun.'
+datePublished: '2016-04-20T17:17:25.372Z'
+dateModified: '2016-04-20T17:17:23.940Z'
 title: 'Úspěch SPOLCHEMIE: Loňský rok v černých číslech'
 author: []
 sourcePath: _posts/2016-04-19-uspech-spolchemie-lonsky-rok-v-cernych-cislech.md
@@ -25,7 +25,7 @@ _type: Blurb
 # Úspěch SPOLCHEMIE: Loňský rok v černých číslech
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3eb1d76-85e5-4ed6-9993-c113e3377898.jpg)
 
-23.března (Ústí n.Labem/Praha) - Pozitivním konsolidovaným provozním hospodářským výsledkem před odpisy a úroky (ukazatel EBITDA) ve výši 486 mil. korun skončilo loňské hospodaření významné domácí chemičky, ústecké SPOLCHEMIE - Spolku pro chemickou a hutní výrobu, a. s. Zatím neauditované, konsolidované výsledky tohoto předního evropského výrobce pryskyřic, hydroxidů a chlorových derivátů ukázaly dosažení obratu ve výši 5,4 miliard korun.
+Ústí n.Labem/Praha - Pozitivním konsolidovaným provozním hospodářským výsledkem před odpisy a úroky (ukazatel EBITDA) ve výši 486 mil. korun skončilo loňské hospodaření významné domácí chemičky, ústecké SPOLCHEMIE - Spolku pro chemickou a hutní výrobu, a. s. Zatím neauditované, konsolidované výsledky tohoto předního evropského výrobce pryskyřic, hydroxidů a chlorových derivátů ukázaly dosažení obratu ve výši 5,4 miliard korun.
 
 „Již z předběžných čísel vyplývá, že se nám podařilo naplnit hlavní cíle stanovené pro loňský rok: navrátit se po dlouhých letech k ziskovému hospodaření, stabilizovat situaci s cash flow a dosáhnout významného meziročního nárůstu EBITDA," okomentoval pozitivní výsledky hospodaření generální ředitel Daniel Tamchyna.
 
