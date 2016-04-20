@@ -5,15 +5,13 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: |-
-  Říkali
-  Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla
-  být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu
-  vůni?
-datePublished: '2016-04-08T07:34:33.630Z'
-dateModified: '2016-04-08T07:34:29.770Z'
+description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu vůni?'
+datePublished: '2016-04-20T07:06:17.135Z'
+dateModified: '2016-04-20T07:04:43.150Z'
 title: Case Studies
-author: []
+author:
+  - name: Neotřelý mejdan na Mácháči nebo mezi  žraloky? Není problém.
+    url: ''
 sourcePath: _posts/2016-04-06-case-studies.md
 published: true
 authors: []
@@ -29,10 +27,7 @@ _type: Article
 # Case Studies
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0a3a0956c45c81d30cc6d8602e6e5fc7ca22cca.jpg)
 
-Říkali
-Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla
-být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu
-vůni?
+Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu vůni?
 
 Za více než desetiletí na českém trhu bychom se mohli označit za významné sběratele zkušeností a to v celé plejádě sektorů v nichž naši klienti působili či působí. Nebojte se nás oslovit, připravíme Vám prezentaci i nabídku přesně na míru.
 
@@ -57,7 +52,7 @@ Pro tento významný podnik se sídlem v Ústí nad Labem zajišťujeme vedle vz
 
 # Politické kampaně
 
-Žádnými nováčky nejsme ani v politických kampaních. Podíleli jsme se na několika vítězných komunálních kampaních v několika městech ČR pro demokratické politické strany a hnutí. Podíleli jsme se na tvorbě specifických předvolebních programů, zajišťovali předvolební výzkumy, krizový PR, directmail, weby,  setkání s voliči, kreativní zajištění reklamní kampaně i media a outdoor media buying .
+Žádnými nováčky nejsme ani v politických kampaních. Podíleli jsme se na několika vítězných komunálních kampaních v několika městech ČR pro demokratické politické strany a hnutí. Podíleli jsme se na tvorbě specifických předvolebních programů, zajišťovali předvolební výzkumy, krizový PR, directmail, weby, setkání s voliči, kreativní zajištění reklamní kampaně i media a outdoor media buying .
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43295056-958f-4b01-ad42-0c072e31448d.jpg)
 
 # Další projekty
