@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-20T17:07:33.993Z'
-dateModified: '2016-04-20T17:07:12.627Z'
+datePublished: '2016-04-20T17:21:20.510Z'
+dateModified: '2016-04-20T17:07:42.586Z'
 title: Zprávy a novinky z naší agenturní dílny
 author: []
 sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
