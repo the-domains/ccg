@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: '12.dubna (BOJKOVICE/PRAHA) - Moravský strojírenský holding Zeveta se sídlem v Bojkovicích na Uherskobrodsku zaznamenal za loňský rok rekordní zisk i obraty. „Rok 2015 byl z hlediska hospodaření našich firem ten nejlepší od světové ekonomické krize v roce 2009,“ představil úspěch firmy její generální ředitel Radoslav Moravec.'
-datePublished: '2016-04-20T16:47:01.228Z'
-dateModified: '2016-04-20T16:46:22.231Z'
+description: 'BOJKOVICE/PRAHA - Moravský strojírenský holding Zeveta se sídlem v Bojkovicích na Uherskobrodsku zaznamenal za loňský rok rekordní zisk i obraty. „Rok 2015 byl z hlediska hospodaření našich firem ten nejlepší od světové ekonomické krize v roce 2009,“ představil úspěch firmy její generální ředitel Radoslav Moravec.'
+datePublished: '2016-04-20T17:17:49.362Z'
+dateModified: '2016-04-20T17:17:48.778Z'
 title: Bojkovická Zeveta měla nejlepší výsledky od hospodářské krize
 author: []
 sourcePath: _posts/2016-04-19-bojkovicka-zeveta-mela-nejlepsi-vysledky-od-hospodarske-kriz.md
@@ -25,7 +25,7 @@ _type: Blurb
 # Bojkovická Zeveta měla nejlepší výsledky od hospodářské krize
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/470e976d-69af-4e9c-bd74-227c14329028.jpg)
 
-12.dubna (BOJKOVICE/PRAHA) - Moravský strojírenský holding Zeveta se sídlem v Bojkovicích na Uherskobrodsku zaznamenal za loňský rok rekordní zisk i obraty. „Rok 2015 byl z hlediska hospodaření našich firem ten nejlepší od světové ekonomické krize v roce 2009," představil úspěch firmy její generální ředitel Radoslav Moravec.
+BOJKOVICE/PRAHA - Moravský strojírenský holding Zeveta se sídlem v Bojkovicích na Uherskobrodsku zaznamenal za loňský rok rekordní zisk i obraty. „Rok 2015 byl z hlediska hospodaření našich firem ten nejlepší od světové ekonomické krize v roce 2009," představil úspěch firmy její generální ředitel Radoslav Moravec.
 
 Do skupiny Zeveta Bojkovice, která je největším lokálním zaměstnavatelem a dává práci celkem 344 lidem, patří společnosti Zeveta Machinery a Zeveta Ammunition a společnost Pyro-Technology, která je v řízené a plánované likvidaci. Na pozitivním hospodářském výsledku se tradičně největším dílem podílela Zeveta Machinery s loňským obratem v celkové výši 485,7 mil. korun a ziskem před zdaněním 10,1 mil.korun (7,9 mil. v roce 2014). Hlavní produkci Zevety v tomto segmentu tvoří lisované a obráběné součásti do nákladních automobilu, střižné a lisovací stroje. „Prakticky veškerou naši produkci exportujeme do zahraničí na ty nejnáročnější světové trhy jakými je Německo, USA či Francie," vysvětluje ředitel Moravec, podle kterého se v dalším období chce jím řízený holding orientovat na rozšíření portfolia dodávek do automotive sektoru a také na rozvoj produktů své nástrojárny.
 
