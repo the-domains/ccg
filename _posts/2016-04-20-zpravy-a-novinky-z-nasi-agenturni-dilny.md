@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T18:51:57.905Z'
-dateModified: '2016-04-20T18:51:54.084Z'
+datePublished: '2016-04-20T18:54:50.668Z'
+dateModified: '2016-04-20T18:54:45.019Z'
 title: Zprávy a novinky z naší agentury
 author:
   - name: 20.dubna 2016
