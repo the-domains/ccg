@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: '23.března (Ústí n.Labem/Praha) - Pozitivním konsolidovaným provozním hospodářským výsledkem před odpisy a úroky (ukazatel EBITDA) ve výši 486 mil. korun skončilo loňské hospodaření významné domácí chemičky, ústecké SPOLCHEMIE - Spolku pro chemickou a hutní výrobu, a. s. Zatím neauditované, konsolidované výsledky tohoto předního evropského výrobce pryskyřic, hydroxidů a chlorových derivátů ukázaly dosažení obratu ve výši 5,4 miliard korun.'
-datePublished: '2016-04-19T13:23:40.664Z'
-dateModified: '2016-04-19T13:23:36.514Z'
+datePublished: '2016-04-20T16:46:40.782Z'
+dateModified: '2016-04-20T16:39:44.314Z'
 title: 'Úspěch SPOLCHEMIE: Loňský rok v černých číslech'
 author: []
 sourcePath: _posts/2016-04-19-uspech-spolchemie-lonsky-rok-v-cernych-cislech.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: uspech-spolchemie-lonsky-rok-v-cernych-cislech/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Úspěch SPOLCHEMIE: Loňský rok v černých číslech
@@ -34,8 +34,6 @@ Na kladné výsledky měl podle vedení firmy také dopad tvrdý restrukturaliza
 SPOLCHEMIE letos slaví 160\. let od svého založení nyní dokončuje klíčovou investici, kterou je výstavba nové membránové elektrolýzy s investičními náklady zhruba 1,7 miliardy korun. Zprovozněna by měla být již letos na podzim a SPOLCHEMII pomůže upevnit vedoucí pozici v oblasti hydroxidů i chlorové chemie na evropském trhu. Spolchemie tradičně patří mezi největší české exportéry (19\. místo v ČR a 1\. místo v Ústeckém kraji), její produkty odebírají zákazníci v 70 zemích na pěti kontinentech.
 
 Tsiková zpráva 003/2016 ke stažení[ZDE][0]
-
-_Kontakt pro další informace: Jan Charvát, __mediální zástupce, tel: 608 827 381, __charvat@ccgpr.cz_
 
 __
 
