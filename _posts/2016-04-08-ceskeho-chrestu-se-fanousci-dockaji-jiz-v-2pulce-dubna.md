@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Výbornou příležitost budou mít všichni milovníci chřestu ale také v sobotu 7.května, kdy se přímo v Hostíně u Vojkovic budou konat tradiční chřestové slavnosti a bude zde k mání mj.chřest za zvýhodněnou cenu. Návštěvníci se ale budou moci těšit také na chřestové speciality, soutěže v pojídání chřestu či ukázky jeho pěstování.'
-datePublished: '2016-04-20T16:58:36.473Z'
-dateModified: '2016-04-20T16:47:21.310Z'
+datePublished: '2016-04-20T17:18:19.131Z'
+dateModified: '2016-04-20T17:18:18.277Z'
 title: Českého chřestu se fanoušci dočkají již v 2.půlce dubna
 author: []
 sourcePath: _posts/2016-04-08-ceskeho-chrestu-se-fanousci-dockaji-jiz-v-2pulce-dubna.md
@@ -25,7 +25,7 @@ _type: Blurb
 # Českého chřestu se fanoušci dočkají již v 2.půlce dubna
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b8ef5cd-3b2f-4e79-b2b9-77884f8ced0e.jpg)
 
-8.dubna (Hostín u Vojkovic/Praha)- Milovníci a fanoušci Českého chřestu se dočkají naší oblíbené pochoutky vzhledem k počasí již v druhé půlce dubna. „K českému chřestu, který je vedle své výborné chuti plný vitamínů a minerálů a má výborné detoxikační účinky, si čeští zákazníci nacházejí rok od roku stále více cestu," říká k tomu jednatel tohoto jediného českého pěstitele z Hostína u Vojkovic Jiří Šafář.
+Hostín u Vojkovic/Praha- Milovníci a fanoušci Českého chřestu se dočkají naší oblíbené pochoutky vzhledem k počasí již v druhé půlce dubna. „K českému chřestu, který je vedle své výborné chuti plný vitamínů a minerálů a má výborné detoxikační účinky, si čeští zákazníci nacházejí rok od roku stále více cestu," říká k tomu jednatel tohoto jediného českého pěstitele z Hostína u Vojkovic Jiří Šafář.
 
 Jako každým rokem bude nejprve k mání bílý chřest, s odstupem pak i chřest zelený. K dostání bude nejprve přímo na farmě v Hostíně a následně také ve vybraných farmářských prodejnách a trzích v Praze a v supermarketech Billa, Kaufland a Makro.
 
