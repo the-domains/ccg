@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: '20.dubna (HOSTÍN U VOJKOVIC) - Chřestová sezona už odstartovala! Víte, že největší farma v Česku na tuto zeleninu je na Mělnicku, kde jsou prý na pěstování nejlepší podmínky? Tušíte, proč je dobré chřest jíst a jak ho správně zpracovat? Chřest je pochutina všech gurmánů a má blahodárný vliv na naše zdraví. Proto bychom si ho měli občas dopřát. '
-datePublished: '2016-04-20T16:46:26.449Z'
-dateModified: '2016-04-20T16:45:26.924Z'
+description: 'HOSTÍN U VOJKOVIC - Chřestová sezona už odstartovala! Víte, že největší farma v Česku na tuto zeleninu je na Mělnicku, kde jsou prý na pěstování nejlepší podmínky? Tušíte, proč je dobré chřest jíst a jak ho správně zpracovat? Chřest je pochutina všech gurmánů a má blahodárný vliv na naše zdraví. Proto bychom si ho měli občas dopřát. '
+datePublished: '2016-04-20T17:16:59.465Z'
+dateModified: '2016-04-20T17:16:54.894Z'
 title: 'Blesk: Tady se pro vás chystá chřest '
 author: []
 sourcePath: _posts/2016-04-20-blesk-tady-se-pro-vas-chysta-chrest.md
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 # Blesk: Tady se pro vás chystá chřest ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a38c82-e290-4a04-a328-765dcf7a1269.jpg)
 
-20.dubna (HOSTÍN U VOJKOVIC) - Chřestová sezona už odstartovala! Víte, že největší farma v Česku na tuto zeleninu je na Mělnicku, kde jsou prý na pěstování nejlepší podmínky? Tušíte, proč je dobré chřest jíst a jak ho správně zpracovat? Chřest je pochutina všech gurmánů a má blahodárný vliv na naše zdraví. Proto bychom si ho měli občas dopřát. 
+HOSTÍN U VOJKOVIC - Chřestová sezona už odstartovala! Víte, že největší farma v Česku na tuto zeleninu je na Mělnicku, kde jsou prý na pěstování nejlepší podmínky? Tušíte, proč je dobré chřest jíst a jak ho správně zpracovat? Chřest je pochutina všech gurmánů a má blahodárný vliv na naše zdraví. Proto bychom si ho měli občas dopřát. 
 
 V Hostíně u Vojkovic na Mělnicku tuto zeleninu pěstují na 150 hektarech půdy. "Chřest dodáváme do supermarketů, na farmářské trhy, do restaurací a do zahraničí. Máme tu písčitou půdu a ideální klima, což je důležité," řekl Blesku Jan Charvát ze společnosti Český chřest. Bílý vs. zelený Tuzemský chřest se dělí na dva druhy - bílý a zelený. Nejedná se však o dvě různé odrůdy. Jde o různé způsoby pěstování. Bílý vyrůstá pod plachtami bez přístupu světla a je sladší. Zelený dorůstá na světle a je dražší. V Česku ho lze pořídit od 140 korun za kilo, bílý asi od 70 korun za kilo.
 
