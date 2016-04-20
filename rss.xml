@@ -4,7 +4,7 @@
         <description><![CDATA[Krizová komunikace, PR, eventy, mediální vztahy, sociální sítě, marketing. ]]></description>
         <link>http://www.ccgpr.cz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 10:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 10:16:28 GMT</lastBuildDate>
         <atom:link href="http://www.ccgpr.cz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Co umíme? A jak?]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.ccgpr.cz/co-umime-a-jak/index.html</link>
             <guid isPermaLink="false">f7818a0f-1988-43e3-a081-b948d5286e10</guid>
             <pubDate>Tue, 19 Apr 2016 12:53:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spojte se s námi]]></title>
+            <description><![CDATA[<article><h1>Spojte se s námi</h1><p>Faxem, telegrafem. Anebo pošlete disketu kurýrem. </p></article>]]></description>
+            <link>http://www.ccgpr.cz/spojte-se-s-nami/index.html</link>
+            <guid isPermaLink="false">4ab83619-fdbe-4485-b62f-da515dcfdfc1</guid>
+            <pubDate>Wed, 20 Apr 2016 10:16:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blesk: Tady se pro vás chystá chřest ]]></title>
@@ -61,13 +68,6 @@
             <link>http://www.ccgpr.cz/v-praze-se-sbiraji-podpisy-za-dokonceni-okruhu/index.html</link>
             <guid isPermaLink="false">382c5711-ae91-4749-9f74-1b4d7f750e4d</guid>
             <pubDate>Tue, 19 Apr 2016 12:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spojte se s námi]]></title>
-            <description><![CDATA[<article><h1>Spojte se s námi</h1><p>Faxem, telegrafem. Anebo pošlete disketu kurýrem. </p></article>]]></description>
-            <link>http://www.ccgpr.cz/spojte-se-s-nami/index.html</link>
-            <guid isPermaLink="false">4ab83619-fdbe-4485-b62f-da515dcfdfc1</guid>
-            <pubDate>Tue, 19 Apr 2016 12:23:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
