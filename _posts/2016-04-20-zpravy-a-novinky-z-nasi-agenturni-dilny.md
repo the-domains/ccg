@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T09:23:16.942Z'
-dateModified: '2016-04-25T09:17:38.755Z'
+datePublished: '2016-04-25T10:14:28.563Z'
+dateModified: '2016-04-25T10:14:26.303Z'
 title: Zprávy a novinky z naší agentury
 author:
   - name: 20.dubna 2016
@@ -37,3 +37,6 @@ _type: Article
 
 ## Českého chřestu se fanoušci dočkají v půlce dubna
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0776cd82-559e-48a9-adef-f2df1be71485.jpg)
+
+## Úspěch SPOLCHEMIE: Loňský rok v černých číslech
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/030d2c6b-67e5-45f8-9fb3-5542f2fb8ff9.jpg)
