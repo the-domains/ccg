@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T19:02:15.207Z'
-dateModified: '2016-04-20T19:02:11.855Z'
+datePublished: '2016-04-25T09:23:16.942Z'
+dateModified: '2016-04-25T09:17:38.755Z'
 title: Zprávy a novinky z naší agentury
 author:
   - name: 20.dubna 2016
@@ -20,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: zpravy-a-novinky-z-nasi-agenturni-dilny/index.html
 _type: Article
 
@@ -36,3 +36,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/540f53c1-38c3-4f8b-99f3-19d902895ffc.jpg)
 
 ## Českého chřestu se fanoušci dočkají v půlce dubna
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0776cd82-559e-48a9-adef-f2df1be71485.jpg)
