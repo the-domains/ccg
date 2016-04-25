@@ -3,11 +3,10 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: 'Ústí n.Labem/Praha - Pozitivním konsolidovaným provozním hospodářským výsledkem před odpisy a úroky (ukazatel EBITDA) ve výši 486 mil. korun skončilo loňské hospodaření významné domácí chemičky, ústecké SPOLCHEMIE - Spolku pro chemickou a hutní výrobu, a. s. Zatím neauditované, konsolidované výsledky tohoto předního evropského výrobce pryskyřic, hydroxidů a chlorových derivátů ukázaly dosažení obratu ve výši 5,4 miliard korun.'
-datePublished: '2016-04-20T17:17:25.372Z'
-dateModified: '2016-04-20T17:17:23.940Z'
+datePublished: '2016-04-25T09:19:25.553Z'
+dateModified: '2016-04-25T09:19:22.793Z'
 title: 'Úspěch SPOLCHEMIE: Loňský rok v černých číslech'
 author: []
 sourcePath: _posts/2016-04-19-uspech-spolchemie-lonsky-rok-v-cernych-cislech.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: uspech-spolchemie-lonsky-rok-v-cernych-cislech/index.html
 _type: Blurb
 
@@ -31,7 +31,7 @@ _type: Blurb
 
 Na kladné výsledky měl podle vedení firmy také dopad tvrdý restrukturalizační plán, snižování provozních nákladů a silná poptávka evropských zákazníků.
 
-SPOLCHEMIE letos slaví 160\. let od svého založení nyní dokončuje klíčovou investici, kterou je výstavba nové membránové elektrolýzy s investičními náklady zhruba 1,7 miliardy korun. Zprovozněna by měla být již letos na podzim a SPOLCHEMII pomůže upevnit vedoucí pozici v oblasti hydroxidů i chlorové chemie na evropském trhu. Spolchemie tradičně patří mezi největší české exportéry (19\. místo v ČR a 1\. místo v Ústeckém kraji), její produkty odebírají zákazníci v 70 zemích na pěti kontinentech.
+SPOLCHEMIE letos slaví 160\. let od svého založení nyní dokončuje klíčovou investici, kterou je výstavba nové membránové elektrolýzy s investičními náklady zhruba 1,7 miliardy korun. Zprovozněna by měla být již letos na podzim a SPOLCHEMII pomůže upevnit vedoucí pozici v oblasti hydroxidů i chlorové chemie na evropském trhu. Spolchemie tradičně patří mezi největší české exportéry (19\. místo v ČR a 1\. místo v Ústeckém kraji), její produkty odebírají zákazníci v 70 zemích na pěti kontinentech...
 
 Tsiková zpráva 003/2016 ke stažení[ZDE][0]
 
