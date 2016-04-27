@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T10:14:28.563Z'
-dateModified: '2016-04-25T10:14:26.303Z'
-title: Zprávy a novinky z naší agentury
+datePublished: '2016-04-27T09:01:16.874Z'
+dateModified: '2016-04-27T09:01:16.571Z'
+title: 'Zprávy a novinky z naší agentury '
 author:
   - name: 20.dubna 2016
     url: ''
@@ -25,6 +25,9 @@ _type: Article
 
 ---
 # Zprávy a novinky z naší agentury
+
+## Aktualne.cz: Kvalita úrody chřestu je letos vysoká, stoupá i zájem zákazníků
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eec056a-219a-44d3-9bd0-f67dcd8f75a6.jpg)
 
 ## Blesk: Tady se pro vás chystá chřest
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e7b5013-e4d2-4892-a956-eb65973eb23f.jpg)
