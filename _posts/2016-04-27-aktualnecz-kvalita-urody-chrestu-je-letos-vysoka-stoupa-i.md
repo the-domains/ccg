@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: '27.dubna - Průběh jarního počasí způsobil, že je v letošním chřestu vyšší poměr přírodního cukru, což přispělo k jeho kvalitě. Hostín u Vojkovic - Kvalita úrody chřestu je  '
-datePublished: '2016-04-27T08:57:54.932Z'
-dateModified: '2016-04-27T08:57:44.973Z'
+description: 'Hostín u Vojkovic - Kvalita úrody chřestu je letos vysoká díky mírnému jaru, stoupá i zájem zákazníků a restaurací. Sklizeň začala o týden dříve než minulý rok. "Nyní je k mání bílý chřest, sklizeň zeleného začne zhruba za dva týdny," řekl Jan Charvát ze společnosti Český chřest z Hostína u Vojkovic na Mělnicku, jediného velkého pěstitele této zeleniny v ČR. Na Mělnicku se chřest pěstuje na 150 hektarech půdy. '
+datePublished: '2016-04-29T07:57:19.346Z'
+dateModified: '2016-04-29T07:57:17.668Z'
 title: 'Aktualne.cz: Kvalita úrody chřestu je letos vysoká, stoupá i zájem zákazníků'
 author: []
+sourcePath: _posts/2016-04-27-aktualnecz-kvalita-urody-chrestu-je-letos-vysoka-stoupa-i.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,16 +18,14 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-aktualnecz-kvalita-urody-chrestu-je-letos-vysoka-stoupa-i.md
-published: true
 url: aktualnecz-kvalita-urody-chrestu-je-letos-vysoka-stoupa-i/index.html
 _type: Blurb
 
 ---
 # Aktualne.cz: Kvalita úrody chřestu je letos vysoká, stoupá i zájem zákazníků
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a9c0c2e-b2d0-4293-bcb2-d48881cd4d60.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/336d29dbd6d45651d29da6c5272f69f49709090b.jpg)
 
-27.dubna - Průběh jarního počasí způsobil, že je v letošním chřestu vyšší poměr přírodního cukru, což přispělo k jeho kvalitě. Hostín u Vojkovic - Kvalita úrody chřestu je 
+Průběh jarního počasí způsobil, že je v letošním chřestu vyšší poměr přírodního cukru, což přispělo k jeho kvalitě. Hostín u Vojkovic - Kvalita úrody chřestu je 
 
 Hostín u Vojkovic - Kvalita úrody chřestu je letos vysoká díky mírnému jaru, stoupá i zájem zákazníků a restaurací. Sklizeň začala o týden dříve než minulý rok. "Nyní je k mání bílý chřest, sklizeň zeleného začne zhruba za dva týdny," řekl Jan Charvát ze společnosti Český chřest z Hostína u Vojkovic na Mělnicku, jediného velkého pěstitele této zeleniny v ČR. Na Mělnicku se chřest pěstuje na 150 hektarech půdy. 
 
