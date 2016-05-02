@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: 'Jsme experti v komunikaci a PR - tam, kde si ostatní trhají vlasy z hlavy a přeskakují drátěný plot na Nuseláku, my natáčíme virální video, ve kterém z mostu skáče motorkář na padáku.'
-datePublished: '2016-04-20T17:49:09.443Z'
-dateModified: '2016-04-20T17:49:07.587Z'
-title: Co umíme? A jak?
+datePublished: '2016-05-02T06:49:33.090Z'
+dateModified: '2016-05-02T06:49:32.051Z'
+title: Co umíme. A jak.
 author: []
 sourcePath: _posts/2016-04-06-co-umime-a-jak.md
 published: true
@@ -18,11 +17,12 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: co-umime-a-jak/index.html
 _type: Article
 
 ---
-# Co umíme? A jak?
+# Co umíme. A jak.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f624074-2e09-44c7-a6ba-5ece2dd03a2c.jpg)
 
 Jsme experti v **komunikaci a PR** - tam, kde si ostatní trhají vlasy z hlavy a přeskakují drátěný plot na Nuseláku, my natáčíme virální video, ve kterém z mostu skáče motorkář na padáku.
