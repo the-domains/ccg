@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu vůni?'
-datePublished: '2016-04-20T07:06:17.135Z'
-dateModified: '2016-04-20T07:04:43.150Z'
+datePublished: '2016-05-02T06:48:25.121Z'
+dateModified: '2016-05-02T06:48:18.403Z'
 title: Case Studies
 author:
   - name: Neotřelý mejdan na Mácháči nebo mezi  žraloky? Není problém.
@@ -20,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: case-studies/index.html
 _type: Article
 
