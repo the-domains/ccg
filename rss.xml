@@ -4,7 +4,7 @@
         <description><![CDATA[Krizová komunikace, PR, eventy, mediální vztahy, sociální sítě, marketing. ]]></description>
         <link>http://www.ccgpr.cz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 06:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 06:50:03 GMT</lastBuildDate>
         <atom:link href="http://www.ccgpr.cz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Co umíme. A jak.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.ccgpr.cz/co-umime-a-jak/index.html</link>
             <guid isPermaLink="false">f7818a0f-1988-43e3-a081-b948d5286e10</guid>
             <pubDate>Mon, 02 May 2016 06:49:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kdo jsme]]></title>
+            <description><![CDATA[<article><h1>Kdo jsme</h1><p>Tedy přinejmenším pokud potřebujete získat nové klienty, vyžehlit problém, uvést nový výrobek či službu na trhu, něco zorganizovat či využít kreativní potenciál našich nadšených PR, marketingový, reklamních a grafických specialistů.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/261438afc0b214a465aeee41b6b4488c4a5ee5a1.jpg"></article>]]></description>
+            <link>http://www.ccgpr.cz/kdo-jsme/index.html</link>
+            <guid isPermaLink="false">2d672ee3-d395-43e4-b0dd-bea29ea2ad9f</guid>
+            <pubDate>Mon, 02 May 2016 06:50:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Case Studies]]></title>
@@ -33,13 +40,6 @@
             <link>http://www.ccgpr.cz/spojte-se-s-nami/index.html</link>
             <guid isPermaLink="false">4ab83619-fdbe-4485-b62f-da515dcfdfc1</guid>
             <pubDate>Wed, 20 Apr 2016 17:45:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kdo jsme?]]></title>
-            <description><![CDATA[<article><h1>Kdo jsme?</h1><p>Tedy přinejmenším pokud potřebujete získat nové klienty, vyžehlit problém, uvést nový výrobek či službu na trhu, něco zorganizovat či využít kreativní potenciál našich nadšených PR, marketingový, reklamních a grafických specialistů.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/261438afc0b214a465aeee41b6b4488c4a5ee5a1.jpg"></article>]]></description>
-            <link>http://www.ccgpr.cz/kdo-jsme/index.html</link>
-            <guid isPermaLink="false">2d672ee3-d395-43e4-b0dd-bea29ea2ad9f</guid>
-            <pubDate>Wed, 20 Apr 2016 06:59:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
