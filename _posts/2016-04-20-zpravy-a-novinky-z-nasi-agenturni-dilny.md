@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T09:01:16.874Z'
-dateModified: '2016-04-27T09:01:16.571Z'
-title: 'Zprávy a novinky z naší agentury '
+datePublished: '2016-05-03T10:42:32.993Z'
+dateModified: '2016-05-03T10:42:17.259Z'
+title: Zprávy a novinky z naší agentury
 author:
   - name: 20.dubna 2016
     url: ''
@@ -25,6 +25,9 @@ _type: Article
 
 ---
 # Zprávy a novinky z naší agentury
+
+## Náš event: Oblíbené chřestové slavnosti již tuto sobotu!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8cd104-546b-4c80-a772-1c8fdbe5f074.jpg)
 
 ## Aktualne.cz: Kvalita úrody chřestu je letos vysoká, stoupá i zájem zákazníků
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eec056a-219a-44d3-9bd0-f67dcd8f75a6.jpg)
