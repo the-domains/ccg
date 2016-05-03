@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Již v sobotu 7.května se v Hostíně u Vojkovic opět sejdou tisíce fanoušků značky Český chřest, aby na tradičních slavnostech oslavili sezonu této stále více oblíbené zeleniny. Čeká na ně program plný zábavy a především chřestu. Ten si budou moci koupit za zvýhodněné ceny a především ochutnat řadu specialit připravených z této lokální pochoutky. '
-datePublished: '2016-05-03T10:32:55.441Z'
-dateModified: '2016-05-03T10:32:49.965Z'
+datePublished: '2016-05-03T10:38:13.258Z'
+dateModified: '2016-05-03T10:33:05.819Z'
 title: 'Náš event: Oblíbené chřestové slavnosti již tuto sobotu!'
 author:
   - name: 3.května 2016
