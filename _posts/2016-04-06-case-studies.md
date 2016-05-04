@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu vůni?'
-datePublished: '2016-05-04T13:32:33.827Z'
-dateModified: '2016-05-04T13:31:55.301Z'
+datePublished: '2016-05-04T13:35:35.002Z'
+dateModified: '2016-05-04T13:35:29.126Z'
 title: Case Studies
 author:
   - name: Neotřelý mejdan na Mácháči nebo mezi  žraloky? Není problém.
@@ -64,9 +64,10 @@ Podíleli jsme se na několika vítězných komunálních kampaních v několika
 
 Průběžně pro naše klienty realizujeme celou řadu projektů v nejrůznějších oblastech. 
 
-Z poslední doby mezi nimi nechyběla ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/956f2cd2-8a4c-4d91-80e8-31e951d8e2e2.jpg)
+Z poslední doby mezi nimi nechyběla mj.:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/956f2cd2-8a4c-4d91-80e8-31e951d8e2e2.jpg)
 
-[výroční zpráva pro Nemocnici Na Homolce][9] , výzkum mediálního vnímání pro [Ministerstvo zdravotnictví][10] či kompletní příprava a zajištění informačních brožur a materiálů pro [Ministerstvo práce a sociálních věcí.][11]
+nebo výzkum mediálního vnímání pro [Ministerstvo zdravotnictví][9] či kompletní příprava a zajištění informačních brožur a materiálů pro [Ministerstvo práce a sociálních věcí.][10]
 
 [0]: http://www.ceskychrest.cz/
 [1]: https://www.facebook.com/ceskychrest
@@ -77,6 +78,5 @@ Z poslední doby mezi nimi nechyběla ![](https://the-grid-user-content.s3-us-we
 [6]: http://www.spolchemie.cz/media/c293ebf0-45eb-4985-8a40-b85315db3bdc/1yLn4g/ForInvestors/InformationsForInvestors/Pololetn%C3%AD%20zpr%C3%A1va%202015.pdf
 [7]: http://www.praha4.cz/
 [8]: http://www.praha10.cz/
-[9]: https://www.homolka.cz/public/data/data/NNH_VZ_2014_CZ.pdf
-[10]: www.mzcr.cz
-[11]: www.mpsv.cz
+[9]: www.mzcr.cz
+[10]: www.mpsv.cz
