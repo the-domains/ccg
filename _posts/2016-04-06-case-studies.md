@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu vůni?'
-datePublished: '2016-05-04T13:25:59.085Z'
-dateModified: '2016-05-04T13:25:38.310Z'
+datePublished: '2016-05-04T13:32:33.827Z'
+dateModified: '2016-05-04T13:31:55.301Z'
 title: Case Studies
 author:
   - name: Neotřelý mejdan na Mácháči nebo mezi  žraloky? Není problém.
@@ -59,14 +59,14 @@ Podíleli jsme se na několika vítězných komunálních kampaních v několika
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/452445101e08ca2e926a0d17a07b012571aed10c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ee05197-31dd-471f-956e-1e655f33d30c.jpg)
 
-# 
-
 # Další projekty
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc65d185-834c-4fd5-a619-1ad947fb24ea.jpg)
 
 Průběžně pro naše klienty realizujeme celou řadu projektů v nejrůznějších oblastech. 
 
-Z poslední doby mezi nimi nechyběla [výroční zpráva pro Nemocnici Na Homolce][9] , výzkum mediálního vnímání pro [Ministerstvo zdravotnictví][10] či kompletní příprava a zajištění informačních brožur a materiálů pro [Ministerstvo práce a sociálních věcí.][11]
+Z poslední doby mezi nimi nechyběla ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/956f2cd2-8a4c-4d91-80e8-31e951d8e2e2.jpg)
+
+[výroční zpráva pro Nemocnici Na Homolce][9] , výzkum mediálního vnímání pro [Ministerstvo zdravotnictví][10] či kompletní příprava a zajištění informačních brožur a materiálů pro [Ministerstvo práce a sociálních věcí.][11]
 
 [0]: http://www.ceskychrest.cz/
 [1]: https://www.facebook.com/ceskychrest
