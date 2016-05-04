@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu vůni?'
-datePublished: '2016-05-04T10:16:37.690Z'
-dateModified: '2016-05-04T10:16:26.360Z'
+datePublished: '2016-05-04T13:05:15.648Z'
+dateModified: '2016-05-04T12:58:55.989Z'
 title: Case Studies
 author:
   - name: Neotřelý mejdan na Mácháči nebo mezi  žraloky? Není problém.
@@ -56,7 +56,7 @@ Pro tento významný podnik se sídlem v Ústí nad Labem zajišťujeme vedle vz
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042e7c64-93e0-416b-a1c2-daeed4f60840.jpg)
 
 Podíleli jsme se na několika vítězných komunálních kampaních v několika městech ČR pro demokratické politické strany a hnutí. Podíleli jsme se na tvorbě specifických předvolebních programů, zajišťovali předvolební výzkumy, krizový PR, directmail, weby, setkání s voliči, kreativní zajištění reklamní kampaně i media a outdoor media buying .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43295056-958f-4b01-ad42-0c072e31448d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/452445101e08ca2e926a0d17a07b012571aed10c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1adc11f5-377a-4d50-b828-db96e6a0e979.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d513c796-d9f4-4af8-837c-843ff902984f.jpg)
 
