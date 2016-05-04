@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu vůni?'
-datePublished: '2016-05-02T06:48:25.121Z'
-dateModified: '2016-05-02T06:48:18.403Z'
+datePublished: '2016-05-04T10:12:57.168Z'
+dateModified: '2016-05-04T10:12:41.954Z'
 title: Case Studies
 author:
   - name: Neotřelý mejdan na Mácháči nebo mezi  žraloky? Není problém.
@@ -50,17 +50,22 @@ V současné době zajišťujeme kompletně externě vnější vztahy jedné z n
 
 Pro tento významný podnik se sídlem v Ústí nad Labem zajišťujeme vedle vztahů s veřejností a médii řadu dalších činností. Tvoříme firemní časopis, [CSR program][5] či [výroční zprávy][6].
 
-# Politické kampaně
+# Municipální a politické kampaně
 
-Žádnými nováčky nejsme ani v politických kampaních. Podíleli jsme se na několika vítězných komunálních kampaních v několika městech ČR pro demokratické politické strany a hnutí. Podíleli jsme se na tvorbě specifických předvolebních programů, zajišťovali předvolební výzkumy, krizový PR, directmail, weby, setkání s voliči, kreativní zajištění reklamní kampaně i media a outdoor media buying .
+Žádnými nováčky nejsme ani v municipálních či politických kampaních. Na řadě projektů jsme pracovali mj. pro největší pražské městské části [MČ Praha 4][7] a [MČ Praha 10][8].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042e7c64-93e0-416b-a1c2-daeed4f60840.jpg)
+
+Podíleli jsme se na několika vítězných komunálních kampaních v několika městech ČR pro demokratické politické strany a hnutí. Podíleli jsme se na tvorbě specifických předvolebních programů, zajišťovali předvolební výzkumy, krizový PR, directmail, weby, setkání s voliči, kreativní zajištění reklamní kampaně i media a outdoor media buying .
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43295056-958f-4b01-ad42-0c072e31448d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1adc11f5-377a-4d50-b828-db96e6a0e979.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d513c796-d9f4-4af8-837c-843ff902984f.jpg)
 
 # Další projekty
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc65d185-834c-4fd5-a619-1ad947fb24ea.jpg)
 
 Průběžně pro naše klienty realizujeme celou řadu projektů v nejrůznějších oblastech. 
 
-Z poslední doby mezi nimi nechyběla [výroční zpráva pro Nemocnici Na Homolce][7] , výzkum mediálního vnímání pro [Ministerstvo zdravotnictví][8] či kompletní příprava a zajištění informačních brožur a materiálů pro [Ministerstvo práce a sociálních věcí.][9]
+Z poslední doby mezi nimi nechyběla [výroční zpráva pro Nemocnici Na Homolce][9] , výzkum mediálního vnímání pro [Ministerstvo zdravotnictví][10] či kompletní příprava a zajištění informačních brožur a materiálů pro [Ministerstvo práce a sociálních věcí.][11]
 
 [0]: http://www.ceskychrest.cz/
 [1]: https://www.facebook.com/ceskychrest
@@ -69,6 +74,8 @@ Z poslední doby mezi nimi nechyběla [výroční zpráva pro Nemocnici Na Homol
 [4]: http://www.spolchemie.cz/
 [5]: http://www.spolchemie.cz/cs/uvod/spolecenska-odpovednost
 [6]: http://www.spolchemie.cz/media/c293ebf0-45eb-4985-8a40-b85315db3bdc/1yLn4g/ForInvestors/InformationsForInvestors/Pololetn%C3%AD%20zpr%C3%A1va%202015.pdf
-[7]: https://www.homolka.cz/public/data/data/NNH_VZ_2014_CZ.pdf
-[8]: www.mzcr.cz
-[9]: www.mpsv.cz
+[7]: http://www.praha4.cz/
+[8]: http://www.praha10.cz/
+[9]: https://www.homolka.cz/public/data/data/NNH_VZ_2014_CZ.pdf
+[10]: www.mzcr.cz
+[11]: www.mpsv.cz
