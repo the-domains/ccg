@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Říkali Vám, že PR je prodávání pečeného vzduchu? Pokud by to měla být pravda, tak my ho umíme upéct dozlatova! Už cítíte tu vůni?'
-datePublished: '2016-05-04T13:05:15.648Z'
-dateModified: '2016-05-04T12:58:55.989Z'
+datePublished: '2016-05-04T13:11:55.295Z'
+dateModified: '2016-05-04T13:11:35.241Z'
 title: Case Studies
 author:
   - name: Neotřelý mejdan na Mácháči nebo mezi  žraloky? Není problém.
