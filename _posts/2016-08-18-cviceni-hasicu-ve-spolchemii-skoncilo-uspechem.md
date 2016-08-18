@@ -5,11 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Proti simulovanému požáru pryskyřice ve významné ústecké chemičce SPOLCHEMIE zasahovali dnes v rámci plánovaného cvičení podnikoví i ústečtí a drážní hasiči. „Spuštěny byly ochranné vodní stěny, prověřen dosah závodního rozhlasu a svolána byla i celá havarijní komise chemičky. Cvičení jsme celkem vyhodnotili jako úspěšné a drobné nedostatky poslouží ke zlepšení naší podnikové protihavarijní a protipožární prevence," zhodnotil akci výrobní ředitel a předseda havarijní komise SPOLCHEMIE Jan Dlouhý.'
-datePublished: '2016-08-18T18:47:33.359Z'
-dateModified: '2016-08-18T18:46:04.904Z'
+datePublished: '2016-08-18T19:08:08.627Z'
+dateModified: '2016-08-18T18:47:42.441Z'
 title: Cvičení hasičů ve SPOLCHEMII skončilo úspěchem
 author:
-  - name: 18.srpna 2016
+  - name: Zprávy  a novinky z naší agenturní dílny
     url: ''
 via: {}
 sourcePath: _posts/2016-08-18-cviceni-hasicu-ve-spolchemii-skoncilo-uspechem.md
