@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-18T18:50:43.967Z'
-dateModified: '2016-08-18T18:40:32.951Z'
+datePublished: '2016-08-18T19:07:51.778Z'
+dateModified: '2016-08-18T19:06:38.697Z'
 title: Zprávy a novinky z naší agentury
 author:
   - name: 27.července 2016
@@ -27,7 +27,7 @@ _type: Article
 # Zprávy a novinky z naší agentury
 
 ## Cvičení hasičů ve SPOLCHEMII skončilo úspěchem
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6156ddc-0bcd-4335-9fb3-c1b3837fed26.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07f49101-a5f0-4f92-ba2b-63a4c0527da0.jpg)
 
 ## Revoluční produkty SPOLCHEMIE pro stavební chemii v knihovně matériO
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7e39235-9bb8-4e60-a616-0202ea6636b8.jpg)
