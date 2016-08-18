@@ -1,26 +1,28 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-10T08:45:04.122Z'
-dateModified: '2016-08-10T08:44:01.179Z'
+datePublished: '2016-08-18T18:47:11.247Z'
+dateModified: '2016-08-18T18:47:07.040Z'
 title: Revoluční produkty SPOLCHEMIE pro stavební chemii v knihovně matériO
 author:
   - name: Zprávy a novinky z naší agenturní dílny
     url: ''
 via: {}
-authors: []
-publisher:
-  name: ''
-  url: ''
-starred: false
 sourcePath: >-
   _posts/2016-08-10-revolucni-produkty-spolchemie-pro-stavebni-chemii-v-knihovne.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: revolucni-produkty-spolchemie-pro-stavebni-chemii-v-knihovne/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Revoluční produkty SPOLCHEMIE pro stavební chemii v knihovně matériO
