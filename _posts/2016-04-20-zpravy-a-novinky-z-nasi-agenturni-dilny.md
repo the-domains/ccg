@@ -1,24 +1,20 @@
 ---
+datePublished: '2016-08-20T10:49:32.251Z'
+sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-20T10:33:47.512Z'
-dateModified: '2016-08-20T10:33:41.259Z'
-title: Zprávy a novinky z naší agentury
 author:
   - name: 27.července 2016
     url: ''
-sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
 via: {}
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-08-20T10:49:31.498Z'
+title: Zprávy a novinky z naší agentury
+publisher: {}
+description: ''
+inLanguage: null
+inNav: true
 starred: true
 url: zpravy-a-novinky-z-nasi-agenturni-dilny/index.html
 _type: Article
@@ -33,7 +29,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9451aeb-8a05-4c09-afa3-d70892291f6b.jpg)
 
 ## Revoluční produkty SPOLCHEMIE pro stavební chemii v knihovně matériO
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7e39235-9bb8-4e60-a616-0202ea6636b8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e225c795-a290-4a94-ba0c-a46a98590568.jpg)
 
 ## Tisíce lidí na našich chřestových slavnostech
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8cd104-546b-4c80-a772-1c8fdbe5f074.jpg)
