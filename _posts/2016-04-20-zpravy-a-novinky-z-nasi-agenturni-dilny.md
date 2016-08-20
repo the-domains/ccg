@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-20T08:58:55.005Z'
-dateModified: '2016-08-18T19:19:21.699Z'
+datePublished: '2016-08-20T10:32:55.991Z'
+dateModified: '2016-08-20T10:32:41.425Z'
 title: Zprávy a novinky z naší agentury
 author:
   - name: 27.července 2016
@@ -15,9 +15,9 @@ sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
 via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: true
 url: zpravy-a-novinky-z-nasi-agenturni-dilny/index.html
@@ -25,6 +25,9 @@ _type: Article
 
 ---
 # Zprávy a novinky z naší agentury
+
+## Praha přivítá svůj 2.Oktoberfest
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efb08e13-fb11-49f7-8632-edc16cbb14ae.jpg)
 
 ## Cvičení hasičů ve SPOLCHEMII skončilo úspěchem
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9451aeb-8a05-4c09-afa3-d70892291f6b.jpg)
