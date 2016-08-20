@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T10:52:17.692Z'
+datePublished: '2016-08-20T11:26:17.291Z'
 sourcePath: _posts/2016-08-20-praha-privita-svuj-2oktoberfest.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: Zprávy a novinky z naší agenturní dílny
     url: ''
 via: {}
-dateModified: '2016-08-20T10:52:17.051Z'
+dateModified: '2016-08-20T11:26:16.757Z'
 title: Praha přivítá svůj 2.Oktoberfest
 publisher: {}
 description: ''
