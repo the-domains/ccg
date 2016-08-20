@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-18T19:19:15.742Z'
-dateModified: '2016-08-18T19:17:29.819Z'
+datePublished: '2016-08-20T08:58:55.005Z'
+dateModified: '2016-08-18T19:19:21.699Z'
 title: Zprávy a novinky z naší agentury
 author:
   - name: 27.července 2016
