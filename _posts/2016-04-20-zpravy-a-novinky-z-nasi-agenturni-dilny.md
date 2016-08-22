@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T07:22:45.090Z'
+datePublished: '2016-08-22T07:27:03.630Z'
 sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: 27.července 2016
     url: ''
 via: {}
-dateModified: '2016-08-22T07:22:44.520Z'
+dateModified: '2016-08-22T07:27:02.656Z'
 title: Zprávy a novinky z naší agenturní dílny
 publisher: {}
 description: >-
@@ -39,25 +39,27 @@ Proti simulovanému požáru pryskyřice ve významné ústecké chemičce SPOLC
 ## Revoluční produkty SPOLCHEMIE pro stavební chemii v knihovně matériO
 ![23.června 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e225c795-a290-4a94-ba0c-a46a98590568.jpg)
 
+Vzorky špičkových a unikátních výrobků pro stavební chemii pocházející z vlastního vývoje a výroby Spolku pro chemickou a hutní výrobu -- SPOLCHEMIE si [mohou nyní zájemci prohlédnout a prostudovat v mezinárodní knihovně materiálu matériO v Praze, Paříží i v Bruselu. ][2]
+
 ## Tisíce lidí na našich chřestových slavnostech
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8cd104-546b-4c80-a772-1c8fdbe5f074.jpg)
 
-Tradiční chřestové slavnosti v domově českého chřestu [lákají každý rok tisíce lidí...][2]
+Tradiční chřestové slavnosti v domově českého chřestu Hostíně u Vojkovic na Mělnicku [lákají každý rok tisíce lidí...][3]
 
 ## Kvalita chřestu je letos vysoká
 ![26.dubna 2016](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1e5c3091b8660bebb300420d5d2e3f8a996b0d.jpg)
 
-Kvalita českého chřestu [je na světové úrovni...][3]
+Kvalita českého chřestu [je na světové úrovni...][4]
 
 ## V Praze se sbírají podpisy za dokončení okruhu
 ![19.dubna 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9018a3eb-cf6c-44ef-aa31-133632dc16ab.jpg)
 
-Podporujeme [snahu o urychlenou dostavbu Pražského okruhu.... ][4]
+Podporujeme [snahu o urychlenou dostavbu Pražského okruhu....][5]
 
 ## Bojkovická Zeveta měla nejlepší výsledky od hospodářské krize
 ![12.dubna 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/540f53c1-38c3-4f8b-99f3-19d902895ffc.jpg)
 
-Tradiční český výrobce je úspěšný [na domácích i světových trzích...][5]
+Tradiční český výrobce je úspěšný [na domácích i světových trzích...][6]
 
 ## Fanoušci se českého chřestu dočkají již brzy
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0776cd82-559e-48a9-adef-f2df1be71485.jpg)
@@ -67,7 +69,8 @@ Tradiční český výrobce je úspěšný [na domácích i světových trzích.
 
 [0]: http://www.ccgpr.cz/praha-privita-svuj-2oktoberfest/ "2.Pražský Oktoberfest"
 [1]: http://www.ccgpr.cz/cviceni-hasicu-ve-spolchemii-skoncilo-uspechem "Podrobnosti o tom, jak hasiči hasili..."
-[2]: http://www.ccgpr.cz/nas-event-oblibene-chrestove-slavnosti-jiz-tuto-sobotu/ "Dohromady již desetitisíce.."
-[3]: http://www.ccgpr.cz/aktualnecz-kvalita-urody-chrestu-je-letos-vysoka-stoupa-i/ "Přečtěte si více..."
-[4]: http://www.ccgpr.cz/v-praze-se-sbiraji-podpisy-za-dokonceni-okruhu/ "Svůj podpis můžete připojit i vy..."
-[5]: http://www.ccgpr.cz/bojkovicka-zeveta-mela-nejlepsi-vysledky-od-hospodarske-kriz/ "Přečtete si více..."
+[2]: http://www.ccgpr.cz/revolucni-produkty-spolchemie-pro-stavebni-chemii-v-knihovne/ "Pro více informací, klikněte sem..."
+[3]: http://www.ccgpr.cz/nas-event-oblibene-chrestove-slavnosti-jiz-tuto-sobotu/ "Dohromady již desetitisíce.."
+[4]: http://www.ccgpr.cz/aktualnecz-kvalita-urody-chrestu-je-letos-vysoka-stoupa-i/ "Přečtěte si více..."
+[5]: http://www.ccgpr.cz/v-praze-se-sbiraji-podpisy-za-dokonceni-okruhu/ "Svůj podpis můžete připojit i vy..."
+[6]: http://www.ccgpr.cz/bojkovicka-zeveta-mela-nejlepsi-vysledky-od-hospodarske-kriz/ "Přečtete si více..."
