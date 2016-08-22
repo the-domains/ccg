@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T10:50:00.828Z'
+datePublished: '2016-08-22T07:24:37.644Z'
 sourcePath: >-
   _posts/2016-08-10-revolucni-produkty-spolchemie-pro-stavebni-chemii-v-knihovne.md
 inFeed: false
@@ -10,7 +10,7 @@ author:
   - name: Zprávy a novinky z naší agenturní dílny
     url: ''
 via: {}
-dateModified: '2016-08-20T10:50:00.221Z'
+dateModified: '2016-08-22T07:24:35.170Z'
 title: Revoluční produkty SPOLCHEMIE pro stavební chemii v knihovně matériO
 publisher: {}
 description: ''
