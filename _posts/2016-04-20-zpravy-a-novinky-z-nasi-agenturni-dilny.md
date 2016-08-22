@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T06:57:53.004Z'
+datePublished: '2016-08-22T07:12:14.814Z'
 sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
 inFeed: true
 authors: []
@@ -9,8 +9,8 @@ author:
   - name: 27.července 2016
     url: ''
 via: {}
-dateModified: '2016-08-22T06:57:52.479Z'
-title: Zprávy a novinky z naší agentury
+dateModified: '2016-08-22T07:12:13.535Z'
+title: Zprávy a novinky z naší agenturní dílny
 publisher: {}
 description: >-
   "Echte" Oktoberfest bier budou i letos mít možnost ochutnat návštěvníci již
@@ -24,7 +24,7 @@ url: zpravy-a-novinky-z-nasi-agenturni-dilny/index.html
 _type: Article
 
 ---
-# Zprávy a novinky z naší agentury
+# Zprávy a novinky z naší agenturní dílny
 
 ## Praha přivítá svůj 2.Oktoberfest
 ![20.srpna 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efb08e13-fb11-49f7-8632-edc16cbb14ae.jpg)
