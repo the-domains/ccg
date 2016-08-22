@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T06:54:14.176Z'
+datePublished: '2016-08-22T06:57:53.004Z'
 sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
 inFeed: true
 authors: []
@@ -9,10 +9,14 @@ author:
   - name: 27.července 2016
     url: ''
 via: {}
-dateModified: '2016-08-22T06:54:13.565Z'
+dateModified: '2016-08-22T06:57:52.479Z'
 title: Zprávy a novinky z naší agentury
 publisher: {}
-description: 20.srpna 2016
+description: >-
+  "Echte" Oktoberfest bier budou i letos mít možnost ochutnat návštěvníci již
+  2.ročníku Pražského Oktoberfestu, který své brány otevře milovníkům této
+  bavorské tradice a jejího zlatavého nektaru v pátek 23. a sobotu 24.září ve
+  Žlutých lázních…
 inLanguage: null
 inNav: true
 starred: true
@@ -24,6 +28,8 @@ _type: Article
 
 ## Praha přivítá svůj 2.Oktoberfest
 ![20.srpna 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efb08e13-fb11-49f7-8632-edc16cbb14ae.jpg)
+
+"Echte" Oktoberfest bier budou i letos mít možnost ochutnat návštěvníci již 2.ročníku Pražského Oktoberfestu, který své brány otevře milovníkům této bavorské tradice a jejího zlatavého nektaru v pátek 23\. a sobotu 24.září ve Žlutých lázních...
 
 ## Praha přivítá svůj 2.Oktoberfest
 ![20.srpna 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efb08e13-fb11-49f7-8632-edc16cbb14ae.jpg)
