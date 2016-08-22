@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T06:51:14.772Z'
+datePublished: '2016-08-22T06:54:14.176Z'
 sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: 27.července 2016
     url: ''
 via: {}
-dateModified: '2016-08-22T06:51:14.282Z'
+dateModified: '2016-08-22T06:54:13.565Z'
 title: Zprávy a novinky z naší agentury
 publisher: {}
 description: 20.srpna 2016
@@ -21,6 +21,9 @@ _type: Article
 
 ---
 # Zprávy a novinky z naší agentury
+
+## Praha přivítá svůj 2.Oktoberfest
+![20.srpna 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efb08e13-fb11-49f7-8632-edc16cbb14ae.jpg)
 
 ## Praha přivítá svůj 2.Oktoberfest
 ![20.srpna 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efb08e13-fb11-49f7-8632-edc16cbb14ae.jpg)
