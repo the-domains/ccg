@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T11:25:28.433Z'
+datePublished: '2016-08-22T06:51:14.772Z'
 sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: 27.července 2016
     url: ''
 via: {}
-dateModified: '2016-08-20T11:25:27.850Z'
+dateModified: '2016-08-22T06:51:14.282Z'
 title: Zprávy a novinky z naší agentury
 publisher: {}
 description: 20.srpna 2016
