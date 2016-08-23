@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: ' Proti simulovanému požáru pryskyřice ve významné ústecké chemičce SPOLCHEMIE zasahovali dnes v rámci plánovaného cvičení podnikoví i ústečtí a drážní hasiči. '
-datePublished: '2016-08-20T10:35:13.177Z'
-dateModified: '2016-08-20T10:35:09.702Z'
+datePublished: '2016-08-23T08:57:12.009Z'
+dateModified: '2016-08-23T08:57:05.942Z'
 title: Cvičení hasičů ve SPOLCHEMII skončilo úspěchem
 author:
   - name: Zprávy  a novinky z naší agenturní dílny
@@ -21,7 +21,7 @@ publisher:
   favicon: null
 starred: true
 url: cviceni-hasicu-ve-spolchemii-skoncilo-uspechem/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Cvičení hasičů ve SPOLCHEMII skončilo úspěchem
