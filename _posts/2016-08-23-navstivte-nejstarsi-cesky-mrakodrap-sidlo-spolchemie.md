@@ -1,27 +1,32 @@
 ---
-description: >-
-  Unikátní možnost navštívit nejstarší český mrakodrap, kterým je správní budova
-  ústeckého Spolku pro chemickou a hutní výrobu - SPOLCHEMIE bude mít veřejnost
-  u příležitosti Dnů evropského dědictví ve dnech 3. a 4.září.
-dateModified: '2016-08-23T08:51:56.007Z'
-datePublished: '2016-08-23T08:53:57.273Z'
-title: Navštivte nejstarší český mrakodrap – sídlo SPOLCHEMIE
+datePublished: '2016-08-23T08:55:19.298Z'
+sourcePath: _posts/2016-08-23-navstivte-nejstarsi-cesky-mrakodrap-sidlo-spolchemie.md
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
 author:
   - name: '(c) Marie Bartošová - SPOLCHEMIE '
-publisher: {}
 via: {}
-starred: false
-sourcePath: _posts/2016-08-23-navstivte-nejstarsi-cesky-mrakodrap-sidlo-spolchemie.md
-inFeed: true
-hasPage: false
+dateModified: '2016-08-23T08:55:18.371Z'
+title: Navštivte nejstarší český mrakodrap – sídlo SPOLCHEMIE
+publisher: {}
+description: >-
+  23.srpna 2016 - Unikátní možnost navštívit nejstarší český mrakodrap, kterým
+  je správní budova ústeckého Spolku pro chemickou a hutní výrobu - SPOLCHEMIE
+  bude mít veřejnost u příležitosti Dnů evropského dědictví ve dnech 3. a
+  4.září.
+inLanguage: null
 inNav: false
-_type: MediaObject
+starred: false
+url: navstivte-nejstarsi-cesky-mrakodrap-sidlo-spolchemie/index.html
+_type: Blurb
 
 ---
 # Navštivte nejstarší český mrakodrap -- sídlo SPOLCHEMIE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/532e85b6-7001-4f61-ac57-4c8ab3987fe2.jpg)
 
-Unikátní možnost navštívit nejstarší český mrakodrap, kterým je správní budova ústeckého Spolku pro chemickou a hutní výrobu - SPOLCHEMIE bude mít veřejnost u příležitosti Dnů evropského dědictví ve dnech 3\. a 4.září.
+23.srpna 2016 - Unikátní možnost navštívit nejstarší český mrakodrap, kterým je správní budova ústeckého Spolku pro chemickou a hutní výrobu - SPOLCHEMIE bude mít veřejnost u příležitosti Dnů evropského dědictví ve dnech 3\. a 4.září.
 
 Unikátní možnost navštívit nejstarší český mrakodrap, kterým je správní budova ústeckého Spolku pro chemickou a hutní výrobu - SPOLCHEMIE bude mít veřejnost u příležitosti Dnů evropského dědictví ve dnech 3\. a 4.září. Tato významná evropská chemička tak letos nabídne u této příležitosti prohlídku svého sídla s komentovaným výkladem včetně prohlídky unikátní technické knihovny obsahující 160 let historie chemie v Rakousko-Uhersku a českých zemích.
 
