@@ -1,26 +1,30 @@
 ---
-datePublished: '2016-08-23T08:55:19.298Z'
-sourcePath: _posts/2016-08-23-navstivte-nejstarsi-cesky-mrakodrap-sidlo-spolchemie.md
-inFeed: false
-authors: []
+inFeed: true
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
-author:
-  - name: '(c) Marie Bartošová - SPOLCHEMIE '
-via: {}
-dateModified: '2016-08-23T08:55:18.371Z'
-title: Navštivte nejstarší český mrakodrap – sídlo SPOLCHEMIE
-publisher: {}
 description: >-
   23.srpna 2016 - Unikátní možnost navštívit nejstarší český mrakodrap, kterým
   je správní budova ústeckého Spolku pro chemickou a hutní výrobu - SPOLCHEMIE
   bude mít veřejnost u příležitosti Dnů evropského dědictví ve dnech 3. a
   4.září.
-inLanguage: null
-inNav: false
+datePublished: '2016-08-23T08:59:46.520Z'
+dateModified: '2016-08-23T08:59:42.304Z'
+sourcePath: _posts/2016-08-23-navstivte-nejstarsi-cesky-mrakodrap-sidlo-spolchemie.md
+author:
+  - name: '(c) Marie Bartošová - SPOLCHEMIE '
+via: {}
+title: Navštivte nejstarší český mrakodrap – sídlo SPOLCHEMIE
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: navstivte-nejstarsi-cesky-mrakodrap-sidlo-spolchemie/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Navštivte nejstarší český mrakodrap -- sídlo SPOLCHEMIE
