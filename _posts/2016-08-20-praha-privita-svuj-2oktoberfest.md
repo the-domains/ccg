@@ -1,20 +1,24 @@
 ---
-datePublished: '2016-08-20T11:26:17.291Z'
-sourcePath: _posts/2016-08-20-praha-privita-svuj-2oktoberfest.md
 inFeed: false
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
+description: ''
+datePublished: '2016-08-23T09:01:05.883Z'
+dateModified: '2016-08-23T09:01:05.319Z'
+sourcePath: _posts/2016-08-20-praha-privita-svuj-2oktoberfest.md
 author:
   - name: Zprávy a novinky z naší agenturní dílny
     url: ''
 via: {}
-dateModified: '2016-08-20T11:26:16.757Z'
 title: Praha přivítá svůj 2.Oktoberfest
-publisher: {}
-description: ''
-inLanguage: null
-inNav: false
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: praha-privita-svuj-2oktoberfest/index.html
 _type: MediaObject
@@ -23,7 +27,7 @@ _type: MediaObject
 # Praha přivítá svůj 2.Oktoberfest
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7d4a020-46cf-402b-9e84-825b27a2e614.jpg)
 
-"Echte" Oktoberfest bier budou i letos mít možnost ochutnat návštěvníci již 2.ročníku Pražského Oktoberfestu, který své brány otevře milovníkům této bavorské tradice a jejího zlatavého nektaru v pátek 23\. a sobotu 24.září ve Žlutých lázních.
+"Echte" Oktoberfest bier budou i letos mít možnost ochutnat návštěvníci již 2.ročníku Pražského Oktoberfestu, který své brány otevře milovníkům této bavorské tradice a jejího zlatavého nektaru **v pátek 23\. a sobotu 24.září ve Žlutých lázních**.
 
 Na místě bude hudba a občerstvení, jak české, tak i bavorské, např. bavorská sekaná, klobásy, preclíky či bratwurst. K pivu i pochutinám bude milovníkům piva hrát i tradiční bavorská hudba a nechybět bude ani obrovský pivní stan.
 
