@@ -1,24 +1,24 @@
 ---
-inFeed: false
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-08-23T09:01:05.883Z'
-dateModified: '2016-08-23T09:01:05.319Z'
+datePublished: '2016-08-30T08:11:33.884Z'
 sourcePath: _posts/2016-08-20-praha-privita-svuj-2oktoberfest.md
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
 author:
   - name: Zprávy a novinky z naší agenturní dílny
     url: ''
 via: {}
+dateModified: '2016-08-30T08:11:32.576Z'
 title: Praha přivítá svůj 2.Oktoberfest
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
+description: >-
+  "Echte" Oktoberfest bier budou i letos mít možnost ochutnat návštěvníci již
+  2.ročníku Pražského Oktoberfestu, který své brány otevře milovníkům této
+  bavorské tradice a jejího zlatavého nektaru v pátek 23. a sobotu 24.září ve
+  Žlutých lázních.
+inLanguage: null
+inNav: false
 starred: false
 url: praha-privita-svuj-2oktoberfest/index.html
 _type: MediaObject
