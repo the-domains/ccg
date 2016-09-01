@@ -1,22 +1,22 @@
 ---
-datePublished: '2016-08-22T07:27:03.630Z'
+datePublished: '2016-08-30T08:06:09.165Z'
 sourcePath: _posts/2016-04-20-zpravy-a-novinky-z-nasi-agenturni-dilny.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
-author:
-  - name: 27.července 2016
-    url: ''
+author: []
 via: {}
-dateModified: '2016-08-22T07:27:02.656Z'
+dateModified: '2016-08-30T08:06:08.478Z'
 title: Zprávy a novinky z naší agenturní dílny
 publisher: {}
 description: >-
-  "Echte" Oktoberfest bier budou i letos mít možnost ochutnat návštěvníci již
-  2.ročníku Pražského Oktoberfestu, který své brány otevře milovníkům této
-  bavorské tradice a jejího zlatavého nektaru v pátek 23. a sobotu 24.září ve
-  Žlutých lázních…
+  Unikátní možnost navštívit nejstarší český mrakodrap, kterým je správní budova
+  ústeckého Spolku pro chemickou a hutní výrobu - SPOLCHEMIE bude mít veřejnost
+  u příležitosti Dnů evropského dědictví ve dnech 3. a 4.září. Tato významná
+  evropská chemička tak letos nabídne u této příležitosti prohlídku svého sídla
+  s komentovaným výkladem včetně prohlídky unikátní technické knihovny
+  obsahující 160 let historie chemie v Rakousko-Uhersku a českých zemích.
 inLanguage: null
 inNav: true
 starred: true
@@ -25,6 +25,8 @@ _type: Article
 
 ---
 # Zprávy a novinky z naší agenturní dílny
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e69539c-4899-40d3-9c53-4c318beaf855.jpg" /><h1>Navštivte nejstarší český mrakodrap - sídlo SPOLCHEMIE</h1><p>Unikátní možnost navštívit nejstarší český mrakodrap, kterým je správní budova ústeckého Spolku pro chemickou a hutní výrobu - SPOLCHEMIE bude mít veřejnost u příležitosti Dnů evropského dědictví ve dnech 3. a 4.září. Tato významná evropská chemička tak letos nabídne u této příležitosti prohlídku svého sídla s komentovaným výkladem včetně prohlídky unikátní technické knihovny obsahující 160 let historie chemie v Rakousko-Uhersku a českých zemích.</p></article>
 
 ## Praha přivítá svůj 2.Oktoberfest
 ![20.srpna 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efb08e13-fb11-49f7-8632-edc16cbb14ae.jpg)
@@ -39,7 +41,7 @@ Proti simulovanému požáru pryskyřice ve významné ústecké chemičce SPOLC
 ## Revoluční produkty SPOLCHEMIE pro stavební chemii v knihovně matériO
 ![23.června 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e225c795-a290-4a94-ba0c-a46a98590568.jpg)
 
-Vzorky špičkových a unikátních výrobků pro stavební chemii pocházející z vlastního vývoje a výroby Spolku pro chemickou a hutní výrobu -- SPOLCHEMIE si [mohou nyní zájemci prohlédnout a prostudovat v mezinárodní knihovně materiálu matériO v Praze, Paříží i v Bruselu. ][2]
+Vzorky špičkových a unikátních výrobků pro stavební chemii pocházející z vlastního vývoje a výroby Spolku pro chemickou a hutní výrobu -- SPOLCHEMIE si [mohou nyní zájemci prohlédnout a prostudovat v mezinárodní knihovně materiálu matériO v Praze, Paříží i v Bruselu.][2]
 
 ## Tisíce lidí na našich chřestových slavnostech
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8cd104-546b-4c80-a772-1c8fdbe5f074.jpg)
