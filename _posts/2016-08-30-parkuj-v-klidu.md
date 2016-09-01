@@ -5,8 +5,8 @@ description: >-
   se tak díky direct-mailem i jinými způsoby distribuovaným tiskovinám a
   informační kampani v médiích mohou včas dozvědět, jaké změny jim nový systém
   parkování přinese.
-dateModified: '2016-08-30T07:55:45.879Z'
-datePublished: '2016-08-30T07:56:31.659Z'
+dateModified: '2016-08-30T07:55:57.046Z'
+datePublished: '2016-08-30T07:58:56.668Z'
 title: Parkuj v klidu
 author:
   - name: ''
