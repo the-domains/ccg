@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-30T08:11:33.884Z'
+datePublished: '2016-08-30T08:12:01.432Z'
 sourcePath: _posts/2016-08-20-praha-privita-svuj-2oktoberfest.md
-inFeed: false
+inFeed: true
 authors: []
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
   - name: Zprávy a novinky z naší agenturní dílny
     url: ''
 via: {}
-dateModified: '2016-08-30T08:11:32.576Z'
+dateModified: '2016-08-30T08:12:00.585Z'
 title: Praha přivítá svůj 2.Oktoberfest
 publisher: {}
 description: >-
@@ -21,7 +21,7 @@ inLanguage: null
 inNav: false
 starred: false
 url: praha-privita-svuj-2oktoberfest/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # Praha přivítá svůj 2.Oktoberfest
