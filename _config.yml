@@ -1,4 +1,3 @@
-layout_spectrum: 0.8873631784226745
 typography_spectrum: 0.2318058938253671
 color:
   brandColors:
@@ -11,19 +10,24 @@ color:
   lightness: 0.75
   saturation: 0.25
   rhythmicContrast: 0.25
-name: Czech Communication Group
-favicon: null
-title: 'Krizová komunikace, PR, eventy, mediální vztahy, sociální sítě, marketing. '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-77010025-1
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8873631784226745
+analytics:
+  google: UA-77010025-1
+  facebook: null
+  twitter: null
+author:
+  email: info@ccgpr.cz
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/56926db1-6494-465d-9d3a-7db92c4613a5.jpg
+name: Czech Communication Group
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Krizová komunikace, PR, eventy, mediální vztahy, sociální sítě, marketing. '
 purpose: []
