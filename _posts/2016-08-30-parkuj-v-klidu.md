@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T08:03:17.262Z'
+datePublished: '2016-08-30T08:07:33.176Z'
 sourcePath: _posts/2016-08-30-parkuj-v-klidu.md
 inFeed: true
 isBasedOnUrl: null
@@ -9,7 +9,7 @@ keywords: []
 author:
   - name: ''
 via: {}
-dateModified: '2016-08-30T08:03:16.639Z'
+dateModified: '2016-08-30T08:07:32.105Z'
 title: Parkuj v klidu
 publisher: {}
 description: >-
